@@ -1,0 +1,2244 @@
+{
+   "Andaman & Nicobar Islands": [
+      {
+         "constituency": "Andaman & Nicobar Islands",
+         "t_electors": 269360
+      }
+   ],
+   "Andhra Pradesh": [
+      {
+         "constituency": "Adilabad",
+         "t_electors": 1386282
+      },
+      {
+         "constituency": "Amalapuram",
+         "t_electors": 1357865
+      },
+      {
+         "constituency": "Anakapalli",
+         "t_electors": 1401474
+      },
+      {
+         "constituency": "Anantapur",
+         "t_electors": 1536894
+      },
+      {
+         "constituency": "Aruku",
+         "t_electors": 1272340
+      },
+      {
+         "constituency": "Bapatla",
+         "t_electors": 1392964
+      },
+      {
+         "constituency": "Bhongir",
+         "t_electors": 1492240
+      },
+      {
+         "constituency": "CHELVELLA",
+         "t_electors": 2185164
+      },
+      {
+         "constituency": "Chittoor",
+         "t_electors": 1451851
+      },
+      {
+         "constituency": "Eluru",
+         "t_electors": 1427764
+      },
+      {
+         "constituency": "Guntur",
+         "t_electors": 1572017
+      },
+      {
+         "constituency": "Hindupur",
+         "t_electors": 1446496
+      },
+      {
+         "constituency": "Hyderabad",
+         "t_electors": 1823217
+      },
+      {
+         "constituency": "Kadapa",
+         "t_electors": 1550440
+      },
+      {
+         "constituency": "Kakinada",
+         "t_electors": 1418290
+      },
+      {
+         "constituency": "Karimnagar",
+         "t_electors": 1550810
+      },
+      {
+         "constituency": "Khammam",
+         "t_electors": 1440267
+      },
+      {
+         "constituency": "Kurnool",
+         "t_electors": 1481791
+      },
+      {
+         "constituency": "Machilipatnam",
+         "t_electors": 1369311
+      },
+      {
+         "constituency": "Mahabubabad",
+         "t_electors": 1387288
+      },
+      {
+         "constituency": "Mahbubnagar ",
+         "t_electors": 1418668
+      },
+      {
+         "constituency": "Malkajgiri",
+         "t_electors": 3183083
+      },
+      {
+         "constituency": "Medak",
+         "t_electors": 1536166
+      },
+      {
+         "constituency": "Nagarkurnool ",
+         "t_electors": 1477305
+      },
+      {
+         "constituency": "Nalgonda",
+         "t_electors": 1494343
+      },
+      {
+         "constituency": "Nandyal",
+         "t_electors": 1576945
+      },
+      {
+         "constituency": "Narasaraopet",
+         "t_electors": 1514861
+      },
+      {
+         "constituency": "Narsapuram",
+         "t_electors": 1325028
+      },
+      {
+         "constituency": "Nellore",
+         "t_electors": 1606127
+      },
+      {
+         "constituency": "Nizamabad",
+         "t_electors": 1496193
+      },
+      {
+         "constituency": "Ongole",
+         "t_electors": 1470212
+      },
+      {
+         "constituency": "Peddapalle",
+         "t_electors": 1425355
+      },
+      {
+         "constituency": "Rajahmundry",
+         "t_electors": 1421276
+      },
+      {
+         "constituency": "Rajampet",
+         "t_electors": 1487791
+      },
+      {
+         "constituency": "Secundrabad",
+         "t_electors": 1893741
+      },
+      {
+         "constituency": "Srikakulam",
+         "t_electors": 1413726
+      },
+      {
+         "constituency": "Tirupati",
+         "t_electors": 1574161
+      },
+      {
+         "constituency": "Vijayawada",
+         "t_electors": 1564513
+      },
+      {
+         "constituency": "Visakhapatnam",
+         "t_electors": 1723011
+      },
+      {
+         "constituency": "Vizianagaram ",
+         "t_electors": 1403736
+      },
+      {
+         "constituency": "Warangal",
+         "t_electors": 1537778
+      },
+      {
+         "constituency": "Zahirabad",
+         "t_electors": 1445354
+      }
+   ],
+   "Arunachal Pradesh": [
+      {
+         "constituency": "ARUNACHAL EAST",
+         "t_electors": 312704
+      },
+      {
+         "constituency": "ARUNACHAL WEST",
+         "t_electors": 446640
+      }
+   ],
+   "Assam": [
+      {
+         "constituency": "Autonomous District",
+         "t_electors": 702230
+      },
+      {
+         "constituency": "Barpeta",
+         "t_electors": 1430188
+      },
+      {
+         "constituency": "Dhubri",
+         "t_electors": 1550166
+      },
+      {
+         "constituency": "Dibrugarh",
+         "t_electors": 1124305
+      },
+      {
+         "constituency": "Gauhati",
+         "t_electors": 1922270
+      },
+      {
+         "constituency": "Jorhat",
+         "t_electors": 1189486
+      },
+      {
+         "constituency": "Kaliabor",
+         "t_electors": 1457219
+      },
+      {
+         "constituency": "Karimganj",
+         "t_electors": 1165997
+      },
+      {
+         "constituency": "Kokrajhar",
+         "t_electors": 1505472
+      },
+      {
+         "constituency": "Lakhimpur",
+         "t_electors": 1431080
+      },
+      {
+         "constituency": "Mangaldoi",
+         "t_electors": 1515676
+      },
+      {
+         "constituency": "Nowgong",
+         "t_electors": 1523881
+      },
+      {
+         "constituency": "Silchar",
+         "t_electors": 1060175
+      },
+      {
+         "constituency": "Tezpur",
+         "t_electors": 1259568
+      }
+   ],
+   "Bihar": [
+      {
+         "constituency": "Araria",
+         "t_electors": 1587332
+      },
+      {
+         "constituency": "Arrah",
+         "t_electors": 1824515
+      },
+      {
+         "constituency": "Aurangabad",
+         "t_electors": 1536153
+      },
+      {
+         "constituency": "Banka",
+         "t_electors": 1549456
+      },
+      {
+         "constituency": "Begusarai",
+         "t_electors": 1778759
+      },
+      {
+         "constituency": "Bhagalpur",
+         "t_electors": 1685339
+      },
+      {
+         "constituency": "Buxar",
+         "t_electors": 1640671
+      },
+      {
+         "constituency": "Darbhanga",
+         "t_electors": 1495445
+      },
+      {
+         "constituency": "Gaya (SC)",
+         "t_electors": 1501521
+      },
+      {
+         "constituency": "Gopalganj (SC)",
+         "t_electors": 1654838
+      },
+      {
+         "constituency": "Hajipur (SC)",
+         "t_electors": 1649547
+      },
+      {
+         "constituency": "Jahanabad",
+         "t_electors": 1423246
+      },
+      {
+         "constituency": "Jamui (SC)",
+         "t_electors": 1550936
+      },
+      {
+         "constituency": "Jhanjharpur",
+         "t_electors": 1668405
+      },
+      {
+         "constituency": "Karakat",
+         "t_electors": 1580558
+      },
+      {
+         "constituency": "Katihar",
+         "t_electors": 1446478
+      },
+      {
+         "constituency": "Khagaria",
+         "t_electors": 1506587
+      },
+      {
+         "constituency": "Kishanganj",
+         "t_electors": 1438990
+      },
+      {
+         "constituency": "Madhepura",
+         "t_electors": 1725693
+      },
+      {
+         "constituency": "Madhubani",
+         "t_electors": 1627832
+      },
+      {
+         "constituency": "Maharajganj",
+         "t_electors": 1642068
+      },
+      {
+         "constituency": "Munger",
+         "t_electors": 1719984
+      },
+      {
+         "constituency": "Muzaffarpur",
+         "t_electors": 1551363
+      },
+      {
+         "constituency": "Nalanda",
+         "t_electors": 1951967
+      },
+      {
+         "constituency": "Nawada",
+         "t_electors": 1694895
+      },
+      {
+         "constituency": "Paschim Champaran",
+         "t_electors": 1413148
+      },
+      {
+         "constituency": "Pataliputra",
+         "t_electors": 1736074
+      },
+      {
+         "constituency": "Patna Sahib",
+         "t_electors": 1946249
+      },
+      {
+         "constituency": "Purnia",
+         "t_electors": 1582626
+      },
+      {
+         "constituency": "Purvi Champaran",
+         "t_electors": 1439253
+      },
+      {
+         "constituency": "Samastipur (SC)",
+         "t_electors": 1504451
+      },
+      {
+         "constituency": "Saran",
+         "t_electors": 1538740
+      },
+      {
+         "constituency": "Sasaram (SC) ",
+         "t_electors": 1607747
+      },
+      {
+         "constituency": "Sheohar",
+         "t_electors": 1485801
+      },
+      {
+         "constituency": "Sitamarhi",
+         "t_electors": 1574914
+      },
+      {
+         "constituency": "Siwan",
+         "t_electors": 1563860
+      },
+      {
+         "constituency": "Supaul",
+         "t_electors": 1525583
+      },
+      {
+         "constituency": "Ujiarpur",
+         "t_electors": 1426217
+      },
+      {
+         "constituency": "Vaishali",
+         "t_electors": 1566321
+      },
+      {
+         "constituency": "Valmiki Nagar ",
+         "t_electors": 1456598
+      }
+   ],
+   "Chandigarh": [
+      {
+         "constituency": "CHANDIGARH",
+         "t_electors": 615214
+      }
+   ],
+   "Chhattisgarh": [
+      {
+         "constituency": "BASTAR",
+         "t_electors": 1298083
+      },
+      {
+         "constituency": "BILASPUR",
+         "t_electors": 1729229
+      },
+      {
+         "constituency": "DURG",
+         "t_electors": 1858922
+      },
+      {
+         "constituency": "JANJGIR-CHAMPA",
+         "t_electors": 1744201
+      },
+      {
+         "constituency": "KANKER",
+         "t_electors": 1448375
+      },
+      {
+         "constituency": "KORBA",
+         "t_electors": 1423729
+      },
+      {
+         "constituency": "MAHASAMUND",
+         "t_electors": 1516177
+      },
+      {
+         "constituency": "RAIGARH",
+         "t_electors": 1626949
+      },
+      {
+         "constituency": "RAIPUR",
+         "t_electors": 1904460
+      },
+      {
+         "constituency": "RAJNANDGAON",
+         "t_electors": 1591373
+      },
+      {
+         "constituency": "SARGUJA",
+         "t_electors": 1523022
+      }
+   ],
+   "Dadra & Nagar Haveli": [
+      {
+         "constituency": "Dadar & Nagar Haveli",
+         "t_electors": 196597
+      }
+   ],
+   "Daman & Diu": [
+      {
+         "constituency": "Daman & diu",
+         "t_electors": 111827
+      }
+   ],
+   "Goa": [
+      {
+         "constituency": "North Goa",
+         "t_electors": 515441
+      },
+      {
+         "constituency": "South Goa",
+         "t_electors": 545336
+      }
+   ],
+   "Gujarat": [
+      {
+         "constituency": "Ahmedabad East",
+         "t_electors": 1601832
+      },
+      {
+         "constituency": "Ahmedabad West",
+         "t_electors": 1534400
+      },
+      {
+         "constituency": "Amreli",
+         "t_electors": 1486286
+      },
+      {
+         "constituency": "Anand",
+         "t_electors": 1496859
+      },
+      {
+         "constituency": "Banaskantha",
+         "t_electors": 1515711
+      },
+      {
+         "constituency": "Bardoli",
+         "t_electors": 1614106
+      },
+      {
+         "constituency": "Bharuch",
+         "t_electors": 1417548
+      },
+      {
+         "constituency": "Bhavnagar",
+         "t_electors": 1594531
+      },
+      {
+         "constituency": "Chhota Udaipur",
+         "t_electors": 1536305
+      },
+      {
+         "constituency": "Dahod",
+         "t_electors": 1411765
+      },
+      {
+         "constituency": "Gandhinagar",
+         "t_electors": 1733972
+      },
+      {
+         "constituency": "Jamnagar",
+         "t_electors": 1470952
+      },
+      {
+         "constituency": "Junagadh",
+         "t_electors": 1485543
+      },
+      {
+         "constituency": "Kachchh",
+         "t_electors": 1533782
+      },
+      {
+         "constituency": "Kheda",
+         "t_electors": 1599476
+      },
+      {
+         "constituency": "Mahesana",
+         "t_electors": 1498219
+      },
+      {
+         "constituency": "Navsari",
+         "t_electors": 1764622
+      },
+      {
+         "constituency": "Panchmahal",
+         "t_electors": 1576667
+      },
+      {
+         "constituency": "Patan",
+         "t_electors": 1628641
+      },
+      {
+         "constituency": "Porbandar",
+         "t_electors": 1539223
+      },
+      {
+         "constituency": "Rajkot",
+         "t_electors": 1655717
+      },
+      {
+         "constituency": "Sabarkantha",
+         "t_electors": 1615840
+      },
+      {
+         "constituency": "Surat",
+         "t_electors": 1484068
+      },
+      {
+         "constituency": "Surendranagar",
+         "t_electors": 1656657
+      },
+      {
+         "constituency": "Vadodara",
+         "t_electors": 1638321
+      },
+      {
+         "constituency": "Valsad",
+         "t_electors": 1512061
+      }
+   ],
+   "Haryana": [
+      {
+         "constituency": "Ambala",
+         "t_electors": 1692424
+      },
+      {
+         "constituency": "Bhiwani-Mahendragarh",
+         "t_electors": 1473912
+      },
+      {
+         "constituency": "Faridabad",
+         "t_electors": 1740352
+      },
+      {
+         "constituency": "Gurgaon",
+         "t_electors": 1844906
+      },
+      {
+         "constituency": "Hisar",
+         "t_electors": 1517606
+      },
+      {
+         "constituency": "Karnal",
+         "t_electors": 1684321
+      },
+      {
+         "constituency": "Kurukshetra",
+         "t_electors": 1498459
+      },
+      {
+         "constituency": "Rohtak",
+         "t_electors": 1567508
+      },
+      {
+         "constituency": "Sirsa",
+         "t_electors": 1660557
+      },
+      {
+         "constituency": "Sonipat",
+         "t_electors": 1417188
+      }
+   ],
+   "Himachal Pradesh": [
+      {
+         "constituency": "Hamirpur",
+         "t_electors": 1247699
+      },
+      {
+         "constituency": "Kangra",
+         "t_electors": 1258601
+      },
+      {
+         "constituency": "Mandi",
+         "t_electors": 1150408
+      },
+      {
+         "constituency": "Shimla",
+         "t_electors": 1153363
+      }
+   ],
+   "Jammu & Kashmir": [
+      {
+         "constituency": "Anantnag",
+         "t_electors": 1301143
+      },
+      {
+         "constituency": "Baramulla",
+         "t_electors": 1190766
+      },
+      {
+         "constituency": "Jammu",
+         "t_electors": 1848155
+      },
+      {
+         "constituency": "Ladakh",
+         "t_electors": 166763
+      },
+      {
+         "constituency": "Srinagar",
+         "t_electors": 1207230
+      },
+      {
+         "constituency": "Udhampur",
+         "t_electors": 1469072
+      }
+   ],
+   "Jharkhand": [
+      {
+         "constituency": "Chatra",
+         "t_electors": 1312562
+      },
+      {
+         "constituency": "Dhanbad",
+         "t_electors": 1890021
+      },
+      {
+         "constituency": "Dumka",
+         "t_electors": 1273049
+      },
+      {
+         "constituency": "Giridih",
+         "t_electors": 1511644
+      },
+      {
+         "constituency": "Godda",
+         "t_electors": 1590772
+      },
+      {
+         "constituency": "Hazaribagh",
+         "t_electors": 1518923
+      },
+      {
+         "constituency": "Jamshedpur",
+         "t_electors": 1581665
+      },
+      {
+         "constituency": "Khunti",
+         "t_electors": 1111856
+      },
+      {
+         "constituency": "Kodarma",
+         "t_electors": 1639645
+      },
+      {
+         "constituency": "Lohardaga",
+         "t_electors": 1119144
+      },
+      {
+         "constituency": "Palamau",
+         "t_electors": 1645957
+      },
+      {
+         "constituency": "Rajmahal",
+         "t_electors": 1353467
+      },
+      {
+         "constituency": "Ranchi",
+         "t_electors": 1648459
+      },
+      {
+         "constituency": "Singhbhum",
+         "t_electors": 1152632
+      }
+   ],
+   "Karnataka": [
+      {
+         "constituency": "Bagalkot",
+         "t_electors": 1568633
+      },
+      {
+         "constituency": "Bangalore North",
+         "t_electors": 2401472
+      },
+      {
+         "constituency": "Bangalore Rural",
+         "t_electors": 2190398
+      },
+      {
+         "constituency": "Bangalore South",
+         "t_electors": 1998724
+      },
+      {
+         "constituency": "Bangalore central",
+         "t_electors": 1931456
+      },
+      {
+         "constituency": "Belgaum",
+         "t_electors": 1580895
+      },
+      {
+         "constituency": "Bellary",
+         "t_electors": 1487945
+      },
+      {
+         "constituency": "Bidar",
+         "t_electors": 1600962
+      },
+      {
+         "constituency": "Bijapur",
+         "t_electors": 1622635
+      },
+      {
+         "constituency": "Chamarajanagar",
+         "t_electors": 1555781
+      },
+      {
+         "constituency": "Chikkballapur ",
+         "t_electors": 1658410
+      },
+      {
+         "constituency": "Chikkodi",
+         "t_electors": 1442206
+      },
+      {
+         "constituency": "Chitradurga",
+         "t_electors": 1661277
+      },
+      {
+         "constituency": "Dakshina Kannada",
+         "t_electors": 1565219
+      },
+      {
+         "constituency": "Davanagere",
+         "t_electors": 1522712
+      },
+      {
+         "constituency": "Dharwad",
+         "t_electors": 1578125
+      },
+      {
+         "constituency": "Gulbarga",
+         "t_electors": 1721990
+      },
+      {
+         "constituency": "Hassan",
+         "t_electors": 1561486
+      },
+      {
+         "constituency": "Haveri",
+         "t_electors": 1558749
+      },
+      {
+         "constituency": "Kolar",
+         "t_electors": 1492977
+      },
+      {
+         "constituency": "Koppal",
+         "t_electors": 1535105
+      },
+      {
+         "constituency": "Mandya",
+         "t_electors": 1669262
+      },
+      {
+         "constituency": "Mysore",
+         "t_electors": 1723134
+      },
+      {
+         "constituency": "Raichur",
+         "t_electors": 1661606
+      },
+      {
+         "constituency": "Shimoga",
+         "t_electors": 1562243
+      },
+      {
+         "constituency": "Tumkur",
+         "t_electors": 1518518
+      },
+      {
+         "constituency": "Udupi Chikmagalur",
+         "t_electors": 1387294
+      },
+      {
+         "constituency": "Uttara Kannada",
+         "t_electors": 1450599
+      }
+   ],
+   "Kerala": [
+      {
+         "constituency": "Alappuzha",
+         "t_electors": 1271324
+      },
+      {
+         "constituency": "Alathur",
+         "t_electors": 1216351
+      },
+      {
+         "constituency": "Attingal",
+         "t_electors": 1251398
+      },
+      {
+         "constituency": "Chalakudy",
+         "t_electors": 1150497
+      },
+      {
+         "constituency": "Ernakulam",
+         "t_electors": 1156492
+      },
+      {
+         "constituency": "Idukki",
+         "t_electors": 1158735
+      },
+      {
+         "constituency": "Kannur",
+         "t_electors": 1170266
+      },
+      {
+         "constituency": "Kasaragod",
+         "t_electors": 1243730
+      },
+      {
+         "constituency": "Kollam",
+         "t_electors": 1219415
+      },
+      {
+         "constituency": "Kottayam",
+         "t_electors": 1161465
+      },
+      {
+         "constituency": "Kozhikode",
+         "t_electors": 1182484
+      },
+      {
+         "constituency": "Malappuram",
+         "t_electors": 1198444
+      },
+      {
+         "constituency": "Mavelikkara",
+         "t_electors": 1252668
+      },
+      {
+         "constituency": "Palakkad",
+         "t_electors": 1208726
+      },
+      {
+         "constituency": "Pathanamthitta",
+         "t_electors": 1323906
+      },
+      {
+         "constituency": "Ponnani",
+         "t_electors": 1180789
+      },
+      {
+         "constituency": "Thiruvananthapuram",
+         "t_electors": 1272748
+      },
+      {
+         "constituency": "Thrissur",
+         "t_electors": 1275288
+      },
+      {
+         "constituency": "Vadakara",
+         "t_electors": 1182504
+      },
+      {
+         "constituency": "Wayanad",
+         "t_electors": 1249420
+      }
+   ],
+   "Lakshadweep": [
+      {
+         "constituency": "Lakshadweep ",
+         "t_electors": 49922
+      }
+   ],
+   "Madhya Pradesh": [
+      {
+         "constituency": "BALAGHAT",
+         "t_electors": 1629741
+      },
+      {
+         "constituency": "BETUL",
+         "t_electors": 1607831
+      },
+      {
+         "constituency": "BHIND",
+         "t_electors": 1600137
+      },
+      {
+         "constituency": "BHOPAL",
+         "t_electors": 1957241
+      },
+      {
+         "constituency": "CHHINDWARA",
+         "t_electors": 1402038
+      },
+      {
+         "constituency": "DAMOH",
+         "t_electors": 1651614
+      },
+      {
+         "constituency": "DEWAS",
+         "t_electors": 1617111
+      },
+      {
+         "constituency": "DHAR",
+         "t_electors": 1668441
+      },
+      {
+         "constituency": "GUNA",
+         "t_electors": 1605613
+      },
+      {
+         "constituency": "GWALIOR",
+         "t_electors": 1876965
+      },
+      {
+         "constituency": "HOSHANGABAD",
+         "t_electors": 1568206
+      },
+      {
+         "constituency": "INDORE",
+         "t_electors": 2115303
+      },
+      {
+         "constituency": "JABALPUR",
+         "t_electors": 1711621
+      },
+      {
+         "constituency": "KHAJURAHO",
+         "t_electors": 1702833
+      },
+      {
+         "constituency": "KHANDWA",
+         "t_electors": 1759417
+      },
+      {
+         "constituency": "KHARGONE",
+         "t_electors": 1703272
+      },
+      {
+         "constituency": "MANDLA",
+         "t_electors": 1824702
+      },
+      {
+         "constituency": "MANDSOUR",
+         "t_electors": 1626556
+      },
+      {
+         "constituency": "MORENA",
+         "t_electors": 1702457
+      },
+      {
+         "constituency": "RAJGARH",
+         "t_electors": 1578757
+      },
+      {
+         "constituency": "RATLAM",
+         "t_electors": 1702576
+      },
+      {
+         "constituency": "REWA",
+         "t_electors": 1544719
+      },
+      {
+         "constituency": "SAGAR",
+         "t_electors": 1520322
+      },
+      {
+         "constituency": "SATNA",
+         "t_electors": 1458381
+      },
+      {
+         "constituency": "SHAHDOL",
+         "t_electors": 1561016
+      },
+      {
+         "constituency": "SIDHI",
+         "t_electors": 1736048
+      },
+      {
+         "constituency": "TIKAMGARH",
+         "t_electors": 1528863
+      },
+      {
+         "constituency": "UJJAIN",
+         "t_electors": 1525481
+      },
+      {
+         "constituency": "VIDISHA",
+         "t_electors": 1634039
+      }
+   ],
+   "Maharashtra": [
+      {
+         "constituency": "Ahmadnagar",
+         "t_electors": 1705005
+      },
+      {
+         "constituency": "Akola",
+         "t_electors": 1672643
+      },
+      {
+         "constituency": "Amravati",
+         "t_electors": 1612739
+      },
+      {
+         "constituency": "Aurangabad",
+         "t_electors": 1589395
+      },
+      {
+         "constituency": "Baramati",
+         "t_electors": 1813553
+      },
+      {
+         "constituency": "Beed",
+         "t_electors": 1792652
+      },
+      {
+         "constituency": "Bhandara - gondiya",
+         "t_electors": 1655852
+      },
+      {
+         "constituency": "Bhiwandi",
+         "t_electors": 1696584
+      },
+      {
+         "constituency": "Buldhana",
+         "t_electors": 1595435
+      },
+      {
+         "constituency": "Chandrapur",
+         "t_electors": 1753690
+      },
+      {
+         "constituency": "Dhule",
+         "t_electors": 1675367
+      },
+      {
+         "constituency": "Dindori",
+         "t_electors": 1530208
+      },
+      {
+         "constituency": "Gadchiroli-Chimur",
+         "t_electors": 1468437
+      },
+      {
+         "constituency": "Hatkanangle",
+         "t_electors": 1630604
+      },
+      {
+         "constituency": "Hingoli",
+         "t_electors": 1586194
+      },
+      {
+         "constituency": "Jalgaon",
+         "t_electors": 1707969
+      },
+      {
+         "constituency": "Jalna",
+         "t_electors": 1612056
+      },
+      {
+         "constituency": "Kalyan",
+         "t_electors": 1922034
+      },
+      {
+         "constituency": "Kolhapur",
+         "t_electors": 1758293
+      },
+      {
+         "constituency": "Latur",
+         "t_electors": 1686957
+      },
+      {
+         "constituency": "Madha",
+         "t_electors": 1727322
+      },
+      {
+         "constituency": "Maval",
+         "t_electors": 1953741
+      },
+      {
+         "constituency": "Mumbai North",
+         "t_electors": 1783870
+      },
+      {
+         "constituency": "Mumbai North East",
+         "t_electors": 1668357
+      },
+      {
+         "constituency": "Mumbai North West",
+         "t_electors": 1775416
+      },
+      {
+         "constituency": "Mumbai North central",
+         "t_electors": 1737084
+      },
+      {
+         "constituency": "Mumbai South",
+         "t_electors": 1485844
+      },
+      {
+         "constituency": "Mumbai South central",
+         "t_electors": 1447886
+      },
+      {
+         "constituency": "Nagpur",
+         "t_electors": 1900784
+      },
+      {
+         "constituency": "Nanded",
+         "t_electors": 1687057
+      },
+      {
+         "constituency": "Nandurbar",
+         "t_electors": 1672943
+      },
+      {
+         "constituency": "Nashik",
+         "t_electors": 1593774
+      },
+      {
+         "constituency": "Osmanabad",
+         "t_electors": 1759186
+      },
+      {
+         "constituency": "Palghar",
+         "t_electors": 1578149
+      },
+      {
+         "constituency": "Parbhani",
+         "t_electors": 1803792
+      },
+      {
+         "constituency": "Pune",
+         "t_electors": 1835835
+      },
+      {
+         "constituency": "Raigad",
+         "t_electors": 1532781
+      },
+      {
+         "constituency": "Ramtek",
+         "t_electors": 1677266
+      },
+      {
+         "constituency": "Ratnagiri - sindhudurg",
+         "t_electors": 1367362
+      },
+      {
+         "constituency": "Raver",
+         "t_electors": 1593389
+      },
+      {
+         "constituency": "Sangli",
+         "t_electors": 1649107
+      },
+      {
+         "constituency": "Satara",
+         "t_electors": 1719998
+      },
+      {
+         "constituency": "Shirdi",
+         "t_electors": 1462267
+      },
+      {
+         "constituency": "Shirur",
+         "t_electors": 1824112
+      },
+      {
+         "constituency": "Solapur",
+         "t_electors": 1702739
+      },
+      {
+         "constituency": "Thane",
+         "t_electors": 2073251
+      },
+      {
+         "constituency": "Wardha",
+         "t_electors": 1564552
+      },
+      {
+         "constituency": "Yavatmal-Washim",
+         "t_electors": 1755292
+      }
+   ],
+   "Manipur": [
+      {
+         "constituency": "Inner manipur ",
+         "t_electors": 855360
+      },
+      {
+         "constituency": "Outer manipur",
+         "t_electors": 919009
+      }
+   ],
+   "Meghalaya": [
+      {
+         "constituency": "Shillong",
+         "t_electors": 980740
+      },
+      {
+         "constituency": "Tura",
+         "t_electors": 586501
+      }
+   ],
+   "Mizoram": [
+      {
+         "constituency": "MIZORAM",
+         "t_electors": 702170
+      }
+   ],
+   "NCT OF Delhi": [
+      {
+         "constituency": "CHANDNI CHOWK",
+         "t_electors": 1447230
+      },
+      {
+         "constituency": "EAST DELHI",
+         "t_electors": 1829578
+      },
+      {
+         "constituency": "NEW DELHI",
+         "t_electors": 1490147
+      },
+      {
+         "constituency": "NORTH EAST DELHI",
+         "t_electors": 1957708
+      },
+      {
+         "constituency": "NORTH WEST DELHI",
+         "t_electors": 2194343
+      },
+      {
+         "constituency": "SOUTH DELHI",
+         "t_electors": 1752748
+      },
+      {
+         "constituency": "WEST DELHI",
+         "t_electors": 2039410
+      }
+   ],
+   "Nagaland": [
+      {
+         "constituency": "Nagaland",
+         "t_electors": 1182972
+      }
+   ],
+   "Odisha": [
+      {
+         "constituency": "Aska",
+         "t_electors": 1408780
+      },
+      {
+         "constituency": "Balasore",
+         "t_electors": 1366218
+      },
+      {
+         "constituency": "Bargarh",
+         "t_electors": 1430717
+      },
+      {
+         "constituency": "Berhampur",
+         "t_electors": 1334268
+      },
+      {
+         "constituency": "Bhadrak",
+         "t_electors": 1469498
+      },
+      {
+         "constituency": "Bhubaneswar ",
+         "t_electors": 1527768
+      },
+      {
+         "constituency": "Bolangir",
+         "t_electors": 1563025
+      },
+      {
+         "constituency": "Cuttack",
+         "t_electors": 1371617
+      },
+      {
+         "constituency": "Dhenkanal",
+         "t_electors": 1363471
+      },
+      {
+         "constituency": "Jagatsinghpur",
+         "t_electors": 1499673
+      },
+      {
+         "constituency": "Jajpur",
+         "t_electors": 1303733
+      },
+      {
+         "constituency": "Kalahandi",
+         "t_electors": 1474135
+      },
+      {
+         "constituency": "Kandhamal",
+         "t_electors": 1143602
+      },
+      {
+         "constituency": "Kendrapara",
+         "t_electors": 1555444
+      },
+      {
+         "constituency": "Keonjhar",
+         "t_electors": 1346683
+      },
+      {
+         "constituency": "Koraput",
+         "t_electors": 1300437
+      },
+      {
+         "constituency": "Mayurbhanj",
+         "t_electors": 1327555
+      },
+      {
+         "constituency": "Nabarangpur",
+         "t_electors": 1297210
+      },
+      {
+         "constituency": "Puri",
+         "t_electors": 1404581
+      },
+      {
+         "constituency": "Sambalpur",
+         "t_electors": 1297098
+      },
+      {
+         "constituency": "Sundargarh",
+         "t_electors": 1410532
+      }
+   ],
+   "Puducherry": [
+      {
+         "constituency": "Puducherry",
+         "t_electors": 901357
+      }
+   ],
+   "Punjab": [
+      {
+         "constituency": "Amritsar",
+         "t_electors": 1477262
+      },
+      {
+         "constituency": "Anandpur Sahib",
+         "t_electors": 1564721
+      },
+      {
+         "constituency": "Bathinda",
+         "t_electors": 1525289
+      },
+      {
+         "constituency": "Faridkot",
+         "t_electors": 1455075
+      },
+      {
+         "constituency": "Fatehgarh Sahib",
+         "t_electors": 1396957
+      },
+      {
+         "constituency": "Firozpur",
+         "t_electors": 1522111
+      },
+      {
+         "constituency": "Gurdaspur",
+         "t_electors": 1500337
+      },
+      {
+         "constituency": "Hoshiarpur",
+         "t_electors": 1485286
+      },
+      {
+         "constituency": "Jalandhar",
+         "t_electors": 1551497
+      },
+      {
+         "constituency": "Khadoor Sahib",
+         "t_electors": 1563409
+      },
+      {
+         "constituency": "Ludhiana",
+         "t_electors": 1561201
+      },
+      {
+         "constituency": "Patiala",
+         "t_electors": 1580273
+      },
+      {
+         "constituency": "Sangrur",
+         "t_electors": 1424743
+      }
+   ],
+   "Rajasthan": [
+      {
+         "constituency": "Ajmer",
+         "t_electors": 1683261
+      },
+      {
+         "constituency": "Alwar",
+         "t_electors": 1626442
+      },
+      {
+         "constituency": "BHARATPUR",
+         "t_electors": 1690705
+      },
+      {
+         "constituency": "Banswara",
+         "t_electors": 1698244
+      },
+      {
+         "constituency": "Barmer",
+         "t_electors": 1680152
+      },
+      {
+         "constituency": "Bhilwara",
+         "t_electors": 1754901
+      },
+      {
+         "constituency": "Bikaner",
+         "t_electors": 1592355
+      },
+      {
+         "constituency": "Chittorgarh",
+         "t_electors": 1819506
+      },
+      {
+         "constituency": "Churu",
+         "t_electors": 1753825
+      },
+      {
+         "constituency": "Dausa",
+         "t_electors": 1524100
+      },
+      {
+         "constituency": "Ganganagar",
+         "t_electors": 1718414
+      },
+      {
+         "constituency": "JHALAWAR-BARAN",
+         "t_electors": 1669844
+      },
+      {
+         "constituency": "Jaipur",
+         "t_electors": 1957820
+      },
+      {
+         "constituency": "Jaipur Rural",
+         "t_electors": 1700307
+      },
+      {
+         "constituency": "Jalore",
+         "t_electors": 1824968
+      },
+      {
+         "constituency": "Jhunjhunu",
+         "t_electors": 1697470
+      },
+      {
+         "constituency": "Jodhpur",
+         "t_electors": 1727791
+      },
+      {
+         "constituency": "KARAULI-DHOLPUR",
+         "t_electors": 1549468
+      },
+      {
+         "constituency": "Kota",
+         "t_electors": 1744539
+      },
+      {
+         "constituency": "Nagaur",
+         "t_electors": 1678660
+      },
+      {
+         "constituency": "Pali",
+         "t_electors": 1902094
+      },
+      {
+         "constituency": "Rajsamand",
+         "t_electors": 1701194
+      },
+      {
+         "constituency": "Sikar",
+         "t_electors": 1769882
+      },
+      {
+         "constituency": "TONK-SAWAI MADHOPUR",
+         "t_electors": 1710775
+      },
+      {
+         "constituency": "Udaipur",
+         "t_electors": 1817940
+      }
+   ],
+   "Sikkim": [
+      {
+         "constituency": "Sikkim",
+         "t_electors": 370770
+      }
+   ],
+   "Tamil Nadu": [
+      {
+         "constituency": "Arakkonam",
+         "t_electors": 1401813
+      },
+      {
+         "constituency": "Arani",
+         "t_electors": 1369668
+      },
+      {
+         "constituency": "Chennai North",
+         "t_electors": 1422392
+      },
+      {
+         "constituency": "Chennai South",
+         "t_electors": 1795776
+      },
+      {
+         "constituency": "Chennai central",
+         "t_electors": 1328038
+      },
+      {
+         "constituency": "Chidambaram ",
+         "t_electors": 1366190
+      },
+      {
+         "constituency": "Coimbatore",
+         "t_electors": 1720221
+      },
+      {
+         "constituency": "Cuddalore",
+         "t_electors": 1247908
+      },
+      {
+         "constituency": "Dharmapuri",
+         "t_electors": 1358273
+      },
+      {
+         "constituency": "Dindigul",
+         "t_electors": 1400531
+      },
+      {
+         "constituency": "Erode",
+         "t_electors": 1321399
+      },
+      {
+         "constituency": "Kallakurichi",
+         "t_electors": 1412499
+      },
+      {
+         "constituency": "Kancheepuram",
+         "t_electors": 1480123
+      },
+      {
+         "constituency": "Kanniyakumari",
+         "t_electors": 1467796
+      },
+      {
+         "constituency": "Karur",
+         "t_electors": 1298322
+      },
+      {
+         "constituency": "Krishnagiri",
+         "t_electors": 1379957
+      },
+      {
+         "constituency": "Madurai",
+         "t_electors": 1441434
+      },
+      {
+         "constituency": "Mayiladuthurai",
+         "t_electors": 1350318
+      },
+      {
+         "constituency": "Nagapattinam ",
+         "t_electors": 1210626
+      },
+      {
+         "constituency": "Namakkal",
+         "t_electors": 1329552
+      },
+      {
+         "constituency": "Nilgiris",
+         "t_electors": 1269173
+      },
+      {
+         "constituency": "Perambalur",
+         "t_electors": 1285576
+      },
+      {
+         "constituency": "Pollachi",
+         "t_electors": 1381505
+      },
+      {
+         "constituency": "Ramanathapuram",
+         "t_electors": 1455988
+      },
+      {
+         "constituency": "Salem",
+         "t_electors": 1498350
+      },
+      {
+         "constituency": "Sivaganga",
+         "t_electors": 1412373
+      },
+      {
+         "constituency": "Sriperumbudur",
+         "t_electors": 1946503
+      },
+      {
+         "constituency": "Tenkasi",
+         "t_electors": 1382081
+      },
+      {
+         "constituency": "Thanjavur",
+         "t_electors": 1340050
+      },
+      {
+         "constituency": "Theni",
+         "t_electors": 1441302
+      },
+      {
+         "constituency": "Thiruvallur",
+         "t_electors": 1702833
+      },
+      {
+         "constituency": "Thoothukkudi ",
+         "t_electors": 1310406
+      },
+      {
+         "constituency": "Tiruchirappalli",
+         "t_electors": 1387140
+      },
+      {
+         "constituency": "Tirunelveli",
+         "t_electors": 1420435
+      },
+      {
+         "constituency": "Tiruppur",
+         "t_electors": 1375589
+      },
+      {
+         "constituency": "Tiruvannamalai",
+         "t_electors": 1352966
+      },
+      {
+         "constituency": "Vellore",
+         "t_electors": 1312259
+      },
+      {
+         "constituency": "Viluppuram",
+         "t_electors": 1387007
+      },
+      {
+         "constituency": "Virudhunagar ",
+         "t_electors": 1350495
+      }
+   ],
+   "Tripura": [
+      {
+         "constituency": "Tripura East",
+         "t_electors": 1140276
+      },
+      {
+         "constituency": "Tripura West",
+         "t_electors": 1248546
+      }
+   ],
+   "Uttar Pradesh": [
+      {
+         "constituency": "Agra",
+         "t_electors": 1814739
+      },
+      {
+         "constituency": "Akbarpur",
+         "t_electors": 1768635
+      },
+      {
+         "constituency": "Aligarh",
+         "t_electors": 1793126
+      },
+      {
+         "constituency": "Allahabad",
+         "t_electors": 1666569
+      },
+      {
+         "constituency": "Ambedkar Nagar",
+         "t_electors": 1718774
+      },
+      {
+         "constituency": "Amethi",
+         "t_electors": 1669843
+      },
+      {
+         "constituency": "Amroha",
+         "t_electors": 1544245
+      },
+      {
+         "constituency": "Aonla",
+         "t_electors": 1653577
+      },
+      {
+         "constituency": "Azamgarh",
+         "t_electors": 1703121
+      },
+      {
+         "constituency": "Badaun",
+         "t_electors": 1769145
+      },
+      {
+         "constituency": "Baghpat",
+         "t_electors": 1505175
+      },
+      {
+         "constituency": "Bahraich",
+         "t_electors": 1638640
+      },
+      {
+         "constituency": "Ballia",
+         "t_electors": 1768271
+      },
+      {
+         "constituency": "Banda",
+         "t_electors": 1601855
+      },
+      {
+         "constituency": "Bansgaon",
+         "t_electors": 1760090
+      },
+      {
+         "constituency": "Barabanki",
+         "t_electors": 1721278
+      },
+      {
+         "constituency": "Bareilly",
+         "t_electors": 1664081
+      },
+      {
+         "constituency": "Basti",
+         "t_electors": 1787476
+      },
+      {
+         "constituency": "Bhadohi",
+         "t_electors": 1834598
+      },
+      {
+         "constituency": "Bijnor",
+         "t_electors": 1562081
+      },
+      {
+         "constituency": "Bulandshahr",
+         "t_electors": 1736436
+      },
+      {
+         "constituency": "Chandauli",
+         "t_electors": 1593133
+      },
+      {
+         "constituency": "Deoria",
+         "t_electors": 1806926
+      },
+      {
+         "constituency": "Dhaurahra",
+         "t_electors": 1558041
+      },
+      {
+         "constituency": "Domariyaganj ",
+         "t_electors": 1761415
+      },
+      {
+         "constituency": "Etah",
+         "t_electors": 1577457
+      },
+      {
+         "constituency": "Etawah",
+         "t_electors": 1707237
+      },
+      {
+         "constituency": "Faizabad",
+         "t_electors": 1738701
+      },
+      {
+         "constituency": "Farrukhabad",
+         "t_electors": 1613781
+      },
+      {
+         "constituency": "Fatehpur",
+         "t_electors": 1804753
+      },
+      {
+         "constituency": "Fatehpur Sikri",
+         "t_electors": 1580582
+      },
+      {
+         "constituency": "Firozabad",
+         "t_electors": 1636738
+      },
+      {
+         "constituency": "Gautam Buddha Nagar",
+         "t_electors": 1986109
+      },
+      {
+         "constituency": "Ghaziabad",
+         "t_electors": 2357553
+      },
+      {
+         "constituency": "Ghazipur",
+         "t_electors": 1801519
+      },
+      {
+         "constituency": "Ghosi",
+         "t_electors": 1891112
+      },
+      {
+         "constituency": "Gonda",
+         "t_electors": 1710825
+      },
+      {
+         "constituency": "Gorakhpur",
+         "t_electors": 1903988
+      },
+      {
+         "constituency": "Hamirpur",
+         "t_electors": 1737993
+      },
+      {
+         "constituency": "Hardoi",
+         "t_electors": 1714388
+      },
+      {
+         "constituency": "Hathras",
+         "t_electors": 1758927
+      },
+      {
+         "constituency": "Jalaun",
+         "t_electors": 1887189
+      },
+      {
+         "constituency": "Jaunpur",
+         "t_electors": 1848842
+      },
+      {
+         "constituency": "Jhansi",
+         "t_electors": 1932052
+      },
+      {
+         "constituency": "Kairana",
+         "t_electors": 1531767
+      },
+      {
+         "constituency": "Kaiserganj",
+         "t_electors": 1711967
+      },
+      {
+         "constituency": "Kannauj",
+         "t_electors": 1808886
+      },
+      {
+         "constituency": "Kanpur",
+         "t_electors": 1611248
+      },
+      {
+         "constituency": "Kaushambi",
+         "t_electors": 1738509
+      },
+      {
+         "constituency": "Kheri",
+         "t_electors": 1679466
+      },
+      {
+         "constituency": "Kushi Nagar",
+         "t_electors": 1680992
+      },
+      {
+         "constituency": "Lalganj",
+         "t_electors": 1661470
+      },
+      {
+         "constituency": "Lucknow",
+         "t_electors": 1949956
+      },
+      {
+         "constituency": "Machhlishahr ",
+         "t_electors": 1891969
+      },
+      {
+         "constituency": "Maharajganj",
+         "t_electors": 1743131
+      },
+      {
+         "constituency": "Mainpuri",
+         "t_electors": 1653058
+      },
+      {
+         "constituency": "Mathura",
+         "t_electors": 1682260
+      },
+      {
+         "constituency": "Meerut",
+         "t_electors": 1764388
+      },
+      {
+         "constituency": "Mirzapur",
+         "t_electors": 1720661
+      },
+      {
+         "constituency": "Misrikh",
+         "t_electors": 1725589
+      },
+      {
+         "constituency": "Mohanlalganj",
+         "t_electors": 1838194
+      },
+      {
+         "constituency": "Moradabad",
+         "t_electors": 1771985
+      },
+      {
+         "constituency": "Muzaffarnagar",
+         "t_electors": 1588475
+      },
+      {
+         "constituency": "Nagina",
+         "t_electors": 1493419
+      },
+      {
+         "constituency": "Phulpur",
+         "t_electors": 1913275
+      },
+      {
+         "constituency": "Pilibhit",
+         "t_electors": 1671154
+      },
+      {
+         "constituency": "Pratapgarh",
+         "t_electors": 1716394
+      },
+      {
+         "constituency": "Rae Bareli",
+         "t_electors": 1594954
+      },
+      {
+         "constituency": "Rampur",
+         "t_electors": 1616972
+      },
+      {
+         "constituency": "Robertsganj",
+         "t_electors": 1639074
+      },
+      {
+         "constituency": "Saharanpur",
+         "t_electors": 1608833
+      },
+      {
+         "constituency": "Salempur",
+         "t_electors": 1661737
+      },
+      {
+         "constituency": "Sambhal",
+         "t_electors": 1693229
+      },
+      {
+         "constituency": "Sant Kabir Nagar",
+         "t_electors": 1904315
+      },
+      {
+         "constituency": "Shahjahanpur ",
+         "t_electors": 1979294
+      },
+      {
+         "constituency": "Shrawasti",
+         "t_electors": 1788080
+      },
+      {
+         "constituency": "Sitapur",
+         "t_electors": 1550263
+      },
+      {
+         "constituency": "Sultanpur",
+         "t_electors": 1703698
+      },
+      {
+         "constituency": "Unnao",
+         "t_electors": 2164392
+      },
+      {
+         "constituency": "Varanasi",
+         "t_electors": 1766487
+      }
+   ],
+   "Uttarakhand": [
+      {
+         "constituency": "Almora",
+         "t_electors": 1253541
+      },
+      {
+         "constituency": "Garhwal",
+         "t_electors": 1267218
+      },
+      {
+         "constituency": "Hardwar",
+         "t_electors": 1642873
+      },
+      {
+         "constituency": "Nainital-udhamsingh Nagar",
+         "t_electors": 1610811
+      },
+      {
+         "constituency": "Tehri Garhwal ",
+         "t_electors": 1352614
+      }
+   ],
+   "West Bengal": [
+      {
+         "constituency": "Alipurduars",
+         "t_electors": 1470911
+      },
+      {
+         "constituency": "Arambagh",
+         "t_electors": 1600293
+      },
+      {
+         "constituency": "Asansol",
+         "t_electors": 1469684
+      },
+      {
+         "constituency": "Baharampur",
+         "t_electors": 1453783
+      },
+      {
+         "constituency": "Balurghat",
+         "t_electors": 1254497
+      },
+      {
+         "constituency": "Bangaon",
+         "t_electors": 1540713
+      },
+      {
+         "constituency": "Bankura",
+         "t_electors": 1503812
+      },
+      {
+         "constituency": "Barasat",
+         "t_electors": 1512792
+      },
+      {
+         "constituency": "Bardhaman Purba",
+         "t_electors": 1532244
+      },
+      {
+         "constituency": "Barrackpore",
+         "t_electors": 1287222
+      },
+      {
+         "constituency": "Basirhat",
+         "t_electors": 1490596
+      },
+      {
+         "constituency": "Birbhum",
+         "t_electors": 1495089
+      },
+      {
+         "constituency": "Bishnupur",
+         "t_electors": 1466921
+      },
+      {
+         "constituency": "Bolpur",
+         "t_electors": 1538421
+      },
+      {
+         "constituency": "Burdwan - durgapur",
+         "t_electors": 1583495
+      },
+      {
+         "constituency": "Cooch behar",
+         "t_electors": 1613403
+      },
+      {
+         "constituency": "Darjeeling",
+         "t_electors": 1437154
+      },
+      {
+         "constituency": "Diamond harbour",
+         "t_electors": 1555914
+      },
+      {
+         "constituency": "Dum dum",
+         "t_electors": 1405981
+      },
+      {
+         "constituency": "Ghatal",
+         "t_electors": 1610489
+      },
+      {
+         "constituency": "Hooghly",
+         "t_electors": 1630042
+      },
+      {
+         "constituency": "Howrah",
+         "t_electors": 1505099
+      },
+      {
+         "constituency": "Jadavpur",
+         "t_electors": 1595746
+      },
+      {
+         "constituency": "Jalpaiguri",
+         "t_electors": 1531469
+      },
+      {
+         "constituency": "Jangipur",
+         "t_electors": 1391656
+      },
+      {
+         "constituency": "Jhargram",
+         "t_electors": 1475112
+      },
+      {
+         "constituency": "Joynagar",
+         "t_electors": 1458724
+      },
+      {
+         "constituency": "Kanthi",
+         "t_electors": 1490409
+      },
+      {
+         "constituency": "Kolkata Dakshin",
+         "t_electors": 1685296
+      },
+      {
+         "constituency": "Kolkata Uttar",
+         "t_electors": 1433985
+      },
+      {
+         "constituency": "Krishnanagar ",
+         "t_electors": 1476783
+      },
+      {
+         "constituency": "Maldaha Dakshin",
+         "t_electors": 1347143
+      },
+      {
+         "constituency": "Maldaha Uttar ",
+         "t_electors": 1425428
+      },
+      {
+         "constituency": "Mathurapur",
+         "t_electors": 1488785
+      },
+      {
+         "constituency": "Medinipur",
+         "t_electors": 1499673
+      },
+      {
+         "constituency": "Murshidabad",
+         "t_electors": 1512098
+      },
+      {
+         "constituency": "Purulia",
+         "t_electors": 1471933
+      },
+      {
+         "constituency": "Raiganj",
+         "t_electors": 1387526
+      },
+      {
+         "constituency": "Ranaghat",
+         "t_electors": 1602849
+      },
+      {
+         "constituency": "Srerampur",
+         "t_electors": 1624038
+      },
+      {
+         "constituency": "Tamluk",
+         "t_electors": 1527273
+      },
+      {
+         "constituency": "Uluberia",
+         "t_electors": 1448632
+      }
+   ]
+}
