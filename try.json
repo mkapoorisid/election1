@@ -1,2717 +1,543 @@
-[
-  {
-    "name": "Andaman & Nicobar Islands",
-    "children": "Andaman & Nicobar Islands",
-    "size": 269360
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Adilabad",
-    "size": 1386282
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Amalapuram",
-    "size": 1357865
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Anakapalli",
-    "size": 1401474
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Anantapur",
-    "size": 1536894
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Aruku",
-    "size": 1272340
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Bapatla",
-    "size": 1392964
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Bhongir",
-    "size": 1492240
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "CHELVELLA",
-    "size": 2185164
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Chittoor",
-    "size": 1451851
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Eluru",
-    "size": 1427764
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Guntur",
-    "size": 1572017
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Hindupur",
-    "size": 1446496
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Hyderabad",
-    "size": 1823217
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Kadapa",
-    "size": 1550440
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Kakinada",
-    "size": 1418290
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Karimnagar",
-    "size": 1550810
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Khammam",
-    "size": 1440267
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Kurnool",
-    "size": 1481791
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Machilipatnam",
-    "size": 1369311
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Mahabubabad",
-    "size": 1387288
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Mahbubnagar",
-    "size": 1418668
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Malkajgiri",
-    "size": 3183083
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Medak",
-    "size": 1536166
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Nagarkurnool",
-    "size": 1477305
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Nalgonda",
-    "size": 1494343
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Nandyal",
-    "size": 1576945
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Narasaraopet",
-    "size": 1514861
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Narsapuram",
-    "size": 1325028
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Nellore",
-    "size": 1606127
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Nizamabad",
-    "size": 1496193
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Ongole",
-    "size": 1470212
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Peddapalle",
-    "size": 1425355
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Rajahmundry",
-    "size": 1421276
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Rajampet",
-    "size": 1487791
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Secundrabad",
-    "size": 1893741
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Srikakulam",
-    "size": 1413726
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Tirupati",
-    "size": 1574161
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Vijayawada",
-    "size": 1564513
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Visakhapatnam",
-    "size": 1723011
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Vizianagaram",
-    "size": 1403736
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Warangal",
-    "size": 1537778
-  },
-  {
-    "name": "Andhra Pradesh",
-    "children": "Zahirabad",
-    "size": 1445354
-  },
-  {
-    "name": "Arunachal Pradesh",
-    "children": "ARUNACHAL EAST",
-    "size": 312704
-  },
-  {
-    "name": "Arunachal Pradesh",
-    "children": "ARUNACHAL WEST",
-    "size": 446640
-  },
-  {
-    "name": "Assam",
-    "children": "Autonomous District",
-    "size": 702230
-  },
-  {
-    "name": "Assam",
-    "children": "Barpeta",
-    "size": 1430188
-  },
-  {
-    "name": "Assam",
-    "children": "Dhubri",
-    "size": 1550166
-  },
-  {
-    "name": "Assam",
-    "children": "Dibrugarh",
-    "size": 1124305
-  },
-  {
-    "name": "Assam",
-    "children": "Gauhati",
-    "size": 1922270
-  },
-  {
-    "name": "Assam",
-    "children": "Jorhat",
-    "size": 1189486
-  },
-  {
-    "name": "Assam",
-    "children": "Kaliabor",
-    "size": 1457219
-  },
-  {
-    "name": "Assam",
-    "children": "Karimganj",
-    "size": 1165997
-  },
-  {
-    "name": "Assam",
-    "children": "Kokrajhar",
-    "size": 1505472
-  },
-  {
-    "name": "Assam",
-    "children": "Lakhimpur",
-    "size": 1431080
-  },
-  {
-    "name": "Assam",
-    "children": "Mangaldoi",
-    "size": 1515676
-  },
-  {
-    "name": "Assam",
-    "children": "Nowgong",
-    "size": 1523881
-  },
-  {
-    "name": "Assam",
-    "children": "Silchar",
-    "size": 1060175
-  },
-  {
-    "name": "Assam",
-    "children": "Tezpur",
-    "size": 1259568
-  },
-  {
-    "name": "Bihar",
-    "children": "Araria",
-    "size": 1587332
-  },
-  {
-    "name": "Bihar",
-    "children": "Arrah",
-    "size": 1824515
-  },
-  {
-    "name": "Bihar",
-    "children": "Aurangabad",
-    "size": 1536153
-  },
-  {
-    "name": "Bihar",
-    "children": "Banka",
-    "size": 1549456
-  },
-  {
-    "name": "Bihar",
-    "children": "Begusarai",
-    "size": 1778759
-  },
-  {
-    "name": "Bihar",
-    "children": "Bhagalpur",
-    "size": 1685339
-  },
-  {
-    "name": "Bihar",
-    "children": "Buxar",
-    "size": 1640671
-  },
-  {
-    "name": "Bihar",
-    "children": "Darbhanga",
-    "size": 1495445
-  },
-  {
-    "name": "Bihar",
-    "children": "Gaya (SC)",
-    "size": 1501521
-  },
-  {
-    "name": "Bihar",
-    "children": "Gopalganj (SC)",
-    "size": 1654838
-  },
-  {
-    "name": "Bihar",
-    "children": "Hajipur (SC)",
-    "size": 1649547
-  },
-  {
-    "name": "Bihar",
-    "children": "Jahanabad",
-    "size": 1423246
-  },
-  {
-    "name": "Bihar",
-    "children": "Jamui (SC)",
-    "size": 1550936
-  },
-  {
-    "name": "Bihar",
-    "children": "Jhanjharpur",
-    "size": 1668405
-  },
-  {
-    "name": "Bihar",
-    "children": "Karakat",
-    "size": 1580558
-  },
-  {
-    "name": "Bihar",
-    "children": "Katihar",
-    "size": 1446478
-  },
-  {
-    "name": "Bihar",
-    "children": "Khagaria",
-    "size": 1506587
-  },
-  {
-    "name": "Bihar",
-    "children": "Kishanganj",
-    "size": 1438990
-  },
-  {
-    "name": "Bihar",
-    "children": "Madhepura",
-    "size": 1725693
-  },
-  {
-    "name": "Bihar",
-    "children": "Madhubani",
-    "size": 1627832
-  },
-  {
-    "name": "Bihar",
-    "children": "Maharajganj",
-    "size": 1642068
-  },
-  {
-    "name": "Bihar",
-    "children": "Munger",
-    "size": 1719984
-  },
-  {
-    "name": "Bihar",
-    "children": "Muzaffarpur",
-    "size": 1551363
-  },
-  {
-    "name": "Bihar",
-    "children": "Nalanda",
-    "size": 1951967
-  },
-  {
-    "name": "Bihar",
-    "children": "Nawada",
-    "size": 1694895
-  },
-  {
-    "name": "Bihar",
-    "children": "Paschim Champaran",
-    "size": 1413148
-  },
-  {
-    "name": "Bihar",
-    "children": "Pataliputra",
-    "size": 1736074
-  },
-  {
-    "name": "Bihar",
-    "children": "Patna Sahib",
-    "size": 1946249
-  },
-  {
-    "name": "Bihar",
-    "children": "Purnia",
-    "size": 1582626
-  },
-  {
-    "name": "Bihar",
-    "children": "Purvi Champaran",
-    "size": 1439253
-  },
-  {
-    "name": "Bihar",
-    "children": "Samastipur (SC)",
-    "size": 1504451
-  },
-  {
-    "name": "Bihar",
-    "children": "Saran",
-    "size": 1538740
-  },
-  {
-    "name": "Bihar",
-    "children": "Sasaram (SC)",
-    "size": 1607747
-  },
-  {
-    "name": "Bihar",
-    "children": "Sheohar",
-    "size": 1485801
-  },
-  {
-    "name": "Bihar",
-    "children": "Sitamarhi",
-    "size": 1574914
-  },
-  {
-    "name": "Bihar",
-    "children": "Siwan",
-    "size": 1563860
-  },
-  {
-    "name": "Bihar",
-    "children": "Supaul",
-    "size": 1525583
-  },
-  {
-    "name": "Bihar",
-    "children": "Ujiarpur",
-    "size": 1426217
-  },
-  {
-    "name": "Bihar",
-    "children": "Vaishali",
-    "size": 1566321
-  },
-  {
-    "name": "Bihar",
-    "children": "Valmiki Nagar",
-    "size": 1456598
-  },
-  {
-    "name": "Chandigarh",
-    "children": "CHANDIGARH",
-    "size": 615214
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "BASTAR",
-    "size": 1298083
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "BILASPUR",
-    "size": 1729229
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "DURG",
-    "size": 1858922
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "JANJGIR-CHAMPA",
-    "size": 1744201
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "KANKER",
-    "size": 1448375
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "KORBA",
-    "size": 1423729
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "MAHASAMUND",
-    "size": 1516177
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "RAIGARH",
-    "size": 1626949
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "RAIPUR",
-    "size": 1904460
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "RAJNANDGAON",
-    "size": 1591373
-  },
-  {
-    "name": "Chhattisgarh",
-    "children": "SARGUJA",
-    "size": 1523022
-  },
-  {
-    "name": "Dadra & Nagar Haveli",
-    "children": "Dadar & Nagar Haveli",
-    "size": 196597
-  },
-  {
-    "name": "Daman & Diu",
-    "children": "Daman & diu",
-    "size": 111827
-  },
-  {
-    "name": "Goa",
-    "children": "North Goa",
-    "size": 515441
-  },
-  {
-    "name": "Goa",
-    "children": "South Goa",
-    "size": 545336
-  },
-  {
-    "name": "Gujarat",
-    "children": "Ahmedabad East",
-    "size": 1601832
-  },
-  {
-    "name": "Gujarat",
-    "children": "Ahmedabad West",
-    "size": 1534400
-  },
-  {
-    "name": "Gujarat",
-    "children": "Amreli",
-    "size": 1486286
-  },
-  {
-    "name": "Gujarat",
-    "children": "Anand",
-    "size": 1496859
-  },
-  {
-    "name": "Gujarat",
-    "children": "Banaskantha",
-    "size": 1515711
-  },
-  {
-    "name": "Gujarat",
-    "children": "Bardoli",
-    "size": 1614106
-  },
-  {
-    "name": "Gujarat",
-    "children": "Bharuch",
-    "size": 1417548
-  },
-  {
-    "name": "Gujarat",
-    "children": "Bhavnagar",
-    "size": 1594531
-  },
-  {
-    "name": "Gujarat",
-    "children": "Chhota Udaipur",
-    "size": 1536305
-  },
-  {
-    "name": "Gujarat",
-    "children": "Dahod",
-    "size": 1411765
-  },
-  {
-    "name": "Gujarat",
-    "children": "Gandhinagar",
-    "size": 1733972
-  },
-  {
-    "name": "Gujarat",
-    "children": "Jamnagar",
-    "size": 1470952
-  },
-  {
-    "name": "Gujarat",
-    "children": "Junagadh",
-    "size": 1485543
-  },
-  {
-    "name": "Gujarat",
-    "children": "Kachchh",
-    "size": 1533782
-  },
-  {
-    "name": "Gujarat",
-    "children": "Kheda",
-    "size": 1599476
-  },
-  {
-    "name": "Gujarat",
-    "children": "Mahesana",
-    "size": 1498219
-  },
-  {
-    "name": "Gujarat",
-    "children": "Navsari",
-    "size": 1764622
-  },
-  {
-    "name": "Gujarat",
-    "children": "Panchmahal",
-    "size": 1576667
-  },
-  {
-    "name": "Gujarat",
-    "children": "Patan",
-    "size": 1628641
-  },
-  {
-    "name": "Gujarat",
-    "children": "Porbandar",
-    "size": 1539223
-  },
-  {
-    "name": "Gujarat",
-    "children": "Rajkot",
-    "size": 1655717
-  },
-  {
-    "name": "Gujarat",
-    "children": "Sabarkantha",
-    "size": 1615840
-  },
-  {
-    "name": "Gujarat",
-    "children": "Surat",
-    "size": 1484068
-  },
-  {
-    "name": "Gujarat",
-    "children": "Surendranagar",
-    "size": 1656657
-  },
-  {
-    "name": "Gujarat",
-    "children": "Vadodara",
-    "size": 1638321
-  },
-  {
-    "name": "Gujarat",
-    "children": "Valsad",
-    "size": 1512061
-  },
-  {
-    "name": "Haryana",
-    "children": "Ambala",
-    "size": 1692424
-  },
-  {
-    "name": "Haryana",
-    "children": "Bhiwani-Mahendragarh",
-    "size": 1473912
-  },
-  {
-    "name": "Haryana",
-    "children": "Faridabad",
-    "size": 1740352
-  },
-  {
-    "name": "Haryana",
-    "children": "Gurgaon",
-    "size": 1844906
-  },
-  {
-    "name": "Haryana",
-    "children": "Hisar",
-    "size": 1517606
-  },
-  {
-    "name": "Haryana",
-    "children": "Karnal",
-    "size": 1684321
-  },
-  {
-    "name": "Haryana",
-    "children": "Kurukshetra",
-    "size": 1498459
-  },
-  {
-    "name": "Haryana",
-    "children": "Rohtak",
-    "size": 1567508
-  },
-  {
-    "name": "Haryana",
-    "children": "Sirsa",
-    "size": 1660557
-  },
-  {
-    "name": "Haryana",
-    "children": "Sonipat",
-    "size": 1417188
-  },
-  {
-    "name": "Himachal Pradesh",
-    "children": "Hamirpur",
-    "size": 1247699
-  },
-  {
-    "name": "Himachal Pradesh",
-    "children": "Kangra",
-    "size": 1258601
-  },
-  {
-    "name": "Himachal Pradesh",
-    "children": "Mandi",
-    "size": 1150408
-  },
-  {
-    "name": "Himachal Pradesh",
-    "children": "Shimla",
-    "size": 1153363
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Anantnag",
-    "size": 1301143
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Baramulla",
-    "size": 1190766
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Jammu",
-    "size": 1848155
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Ladakh",
-    "size": 166763
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Srinagar",
-    "size": 1207230
-  },
-  {
-    "name": "Jammu & Kashmir",
-    "children": "Udhampur",
-    "size": 1469072
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Chatra",
-    "size": 1312562
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Dhanbad",
-    "size": 1890021
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Dumka",
-    "size": 1273049
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Giridih",
-    "size": 1511644
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Godda",
-    "size": 1590772
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Hazaribagh",
-    "size": 1518923
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Jamshedpur",
-    "size": 1581665
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Khunti",
-    "size": 1111856
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Kodarma",
-    "size": 1639645
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Lohardaga",
-    "size": 1119144
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Palamau",
-    "size": 1645957
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Rajmahal",
-    "size": 1353467
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Ranchi",
-    "size": 1648459
-  },
-  {
-    "name": "Jharkhand",
-    "children": "Singhbhum",
-    "size": 1152632
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bagalkot",
-    "size": 1568633
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bangalore North",
-    "size": 2401472
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bangalore Rural",
-    "size": 2190398
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bangalore South",
-    "size": 1998724
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bangalore central",
-    "size": 1931456
-  },
-  {
-    "name": "Karnataka",
-    "children": "Belgaum",
-    "size": 1580895
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bellary",
-    "size": 1487945
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bidar",
-    "size": 1600962
-  },
-  {
-    "name": "Karnataka",
-    "children": "Bijapur",
-    "size": 1622635
-  },
-  {
-    "name": "Karnataka",
-    "children": "Chamarajanagar",
-    "size": 1555781
-  },
-  {
-    "name": "Karnataka",
-    "children": "Chikkballapur",
-    "size": 1658410
-  },
-  {
-    "name": "Karnataka",
-    "children": "Chikkodi",
-    "size": 1442206
-  },
-  {
-    "name": "Karnataka",
-    "children": "Chitradurga",
-    "size": 1661277
-  },
-  {
-    "name": "Karnataka",
-    "children": "Dakshina Kannada",
-    "size": 1565219
-  },
-  {
-    "name": "Karnataka",
-    "children": "Davanagere",
-    "size": 1522712
-  },
-  {
-    "name": "Karnataka",
-    "children": "Dharwad",
-    "size": 1578125
-  },
-  {
-    "name": "Karnataka",
-    "children": "Gulbarga",
-    "size": 1721990
-  },
-  {
-    "name": "Karnataka",
-    "children": "Hassan",
-    "size": 1561486
-  },
-  {
-    "name": "Karnataka",
-    "children": "Haveri",
-    "size": 1558749
-  },
-  {
-    "name": "Karnataka",
-    "children": "Kolar",
-    "size": 1492977
-  },
-  {
-    "name": "Karnataka",
-    "children": "Koppal",
-    "size": 1535105
-  },
-  {
-    "name": "Karnataka",
-    "children": "Mandya",
-    "size": 1669262
-  },
-  {
-    "name": "Karnataka",
-    "children": "Mysore",
-    "size": 1723134
-  },
-  {
-    "name": "Karnataka",
-    "children": "Raichur",
-    "size": 1661606
-  },
-  {
-    "name": "Karnataka",
-    "children": "Shimoga",
-    "size": 1562243
-  },
-  {
-    "name": "Karnataka",
-    "children": "Tumkur",
-    "size": 1518518
-  },
-  {
-    "name": "Karnataka",
-    "children": "Udupi Chikmagalur",
-    "size": 1387294
-  },
-  {
-    "name": "Karnataka",
-    "children": "Uttara Kannada",
-    "size": 1450599
-  },
-  {
-    "name": "Kerala",
-    "children": "Alappuzha",
-    "size": 1271324
-  },
-  {
-    "name": "Kerala",
-    "children": "Alathur",
-    "size": 1216351
-  },
-  {
-    "name": "Kerala",
-    "children": "Attingal",
-    "size": 1251398
-  },
-  {
-    "name": "Kerala",
-    "children": "Chalakudy",
-    "size": 1150497
-  },
-  {
-    "name": "Kerala",
-    "children": "Ernakulam",
-    "size": 1156492
-  },
-  {
-    "name": "Kerala",
-    "children": "Idukki",
-    "size": 1158735
-  },
-  {
-    "name": "Kerala",
-    "children": "Kannur",
-    "size": 1170266
-  },
-  {
-    "name": "Kerala",
-    "children": "Kasaragod",
-    "size": 1243730
-  },
-  {
-    "name": "Kerala",
-    "children": "Kollam",
-    "size": 1219415
-  },
-  {
-    "name": "Kerala",
-    "children": "Kottayam",
-    "size": 1161465
-  },
-  {
-    "name": "Kerala",
-    "children": "Kozhikode",
-    "size": 1182484
-  },
-  {
-    "name": "Kerala",
-    "children": "Malappuram",
-    "size": 1198444
-  },
-  {
-    "name": "Kerala",
-    "children": "Mavelikkara",
-    "size": 1252668
-  },
-  {
-    "name": "Kerala",
-    "children": "Palakkad",
-    "size": 1208726
-  },
-  {
-    "name": "Kerala",
-    "children": "Pathanamthitta",
-    "size": 1323906
-  },
-  {
-    "name": "Kerala",
-    "children": "Ponnani",
-    "size": 1180789
-  },
-  {
-    "name": "Kerala",
-    "children": "Thiruvananthapuram",
-    "size": 1272748
-  },
-  {
-    "name": "Kerala",
-    "children": "Thrissur",
-    "size": 1275288
-  },
-  {
-    "name": "Kerala",
-    "children": "Vadakara",
-    "size": 1182504
-  },
-  {
-    "name": "Kerala",
-    "children": "Wayanad",
-    "size": 1249420
-  },
-  {
-    "name": "Lakshadweep",
-    "children": "Lakshadweep",
-    "size": 49922
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "BALAGHAT",
-    "size": 1629741
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "BETUL",
-    "size": 1607831
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "BHIND",
-    "size": 1600137
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "BHOPAL",
-    "size": 1957241
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "CHHINDWARA",
-    "size": 1402038
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "DAMOH",
-    "size": 1651614
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "DEWAS",
-    "size": 1617111
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "DHAR",
-    "size": 1668441
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "GUNA",
-    "size": 1605613
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "GWALIOR",
-    "size": 1876965
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "HOSHANGABAD",
-    "size": 1568206
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "INDORE",
-    "size": 2115303
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "JABALPUR",
-    "size": 1711621
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "KHAJURAHO",
-    "size": 1702833
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "KHANDWA",
-    "size": 1759417
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "KHARGONE",
-    "size": 1703272
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "MANDLA",
-    "size": 1824702
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "MANDSOUR",
-    "size": 1626556
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "MORENA",
-    "size": 1702457
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "RAJGARH",
-    "size": 1578757
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "RATLAM",
-    "size": 1702576
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "REWA",
-    "size": 1544719
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "SAGAR",
-    "size": 1520322
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "SATNA",
-    "size": 1458381
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "SHAHDOL",
-    "size": 1561016
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "SIDHI",
-    "size": 1736048
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "TIKAMGARH",
-    "size": 1528863
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "UJJAIN",
-    "size": 1525481
-  },
-  {
-    "name": "Madhya Pradesh",
-    "children": "VIDISHA",
-    "size": 1634039
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Ahmadnagar",
-    "size": 1705005
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Akola",
-    "size": 1672643
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Amravati",
-    "size": 1612739
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Aurangabad",
-    "size": 1589395
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Baramati",
-    "size": 1813553
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Beed",
-    "size": 1792652
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Bhandara - gondiya",
-    "size": 1655852
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Bhiwandi",
-    "size": 1696584
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Buldhana",
-    "size": 1595435
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Chandrapur",
-    "size": 1753690
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Dhule",
-    "size": 1675367
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Dindori",
-    "size": 1530208
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Gadchiroli-Chimur",
-    "size": 1468437
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Hatkanangle",
-    "size": 1630604
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Hingoli",
-    "size": 1586194
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Jalgaon",
-    "size": 1707969
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Jalna",
-    "size": 1612056
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Kalyan",
-    "size": 1922034
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Kolhapur",
-    "size": 1758293
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Latur",
-    "size": 1686957
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Madha",
-    "size": 1727322
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Maval",
-    "size": 1953741
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai North",
-    "size": 1783870
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai North East",
-    "size": 1668357
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai North West",
-    "size": 1775416
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai North central",
-    "size": 1737084
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai South",
-    "size": 1485844
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Mumbai South central",
-    "size": 1447886
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Nagpur",
-    "size": 1900784
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Nanded",
-    "size": 1687057
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Nandurbar",
-    "size": 1672943
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Nashik",
-    "size": 1593774
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Osmanabad",
-    "size": 1759186
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Palghar",
-    "size": 1578149
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Parbhani",
-    "size": 1803792
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Pune",
-    "size": 1835835
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Raigad",
-    "size": 1532781
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Ramtek",
-    "size": 1677266
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Ratnagiri - sindhudurg",
-    "size": 1367362
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Raver",
-    "size": 1593389
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Sangli",
-    "size": 1649107
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Satara",
-    "size": 1719998
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Shirdi",
-    "size": 1462267
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Shirur",
-    "size": 1824112
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Solapur",
-    "size": 1702739
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Thane",
-    "size": 2073251
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Wardha",
-    "size": 1564552
-  },
-  {
-    "name": "Maharashtra",
-    "children": "Yavatmal-Washim",
-    "size": 1755292
-  },
-  {
-    "name": "Manipur",
-    "children": "Inner manipur",
-    "size": 855360
-  },
-  {
-    "name": "Manipur",
-    "children": "Outer manipur",
-    "size": 919009
-  },
-  {
-    "name": "Meghalaya",
-    "children": "Shillong",
-    "size": 980740
-  },
-  {
-    "name": "Meghalaya",
-    "children": "Tura",
-    "size": 586501
-  },
-  {
-    "name": "Mizoram",
-    "children": "MIZORAM",
-    "size": 702170
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "CHANDNI CHOWK",
-    "size": 1447230
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "EAST DELHI",
-    "size": 1829578
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "NEW DELHI",
-    "size": 1490147
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "NORTH EAST DELHI",
-    "size": 1957708
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "NORTH WEST DELHI",
-    "size": 2194343
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "SOUTH DELHI",
-    "size": 1752748
-  },
-  {
-    "name": "NCT OF Delhi",
-    "children": "WEST DELHI",
-    "size": 2039410
-  },
-  {
-    "name": "Nagaland",
-    "children": "Nagaland",
-    "size": 1182972
-  },
-  {
-    "name": "Odisha",
-    "children": "Aska",
-    "size": 1408780
-  },
-  {
-    "name": "Odisha",
-    "children": "Balasore",
-    "size": 1366218
-  },
-  {
-    "name": "Odisha",
-    "children": "Bargarh",
-    "size": 1430717
-  },
-  {
-    "name": "Odisha",
-    "children": "Berhampur",
-    "size": 1334268
-  },
-  {
-    "name": "Odisha",
-    "children": "Bhadrak",
-    "size": 1469498
-  },
-  {
-    "name": "Odisha",
-    "children": "Bhubaneswar",
-    "size": 1527768
-  },
-  {
-    "name": "Odisha",
-    "children": "Bolangir",
-    "size": 1563025
-  },
-  {
-    "name": "Odisha",
-    "children": "Cuttack",
-    "size": 1371617
-  },
-  {
-    "name": "Odisha",
-    "children": "Dhenkanal",
-    "size": 1363471
-  },
-  {
-    "name": "Odisha",
-    "children": "Jagatsinghpur",
-    "size": 1499673
-  },
-  {
-    "name": "Odisha",
-    "children": "Jajpur",
-    "size": 1303733
-  },
-  {
-    "name": "Odisha",
-    "children": "Kalahandi",
-    "size": 1474135
-  },
-  {
-    "name": "Odisha",
-    "children": "Kandhamal",
-    "size": 1143602
-  },
-  {
-    "name": "Odisha",
-    "children": "Kendrapara",
-    "size": 1555444
-  },
-  {
-    "name": "Odisha",
-    "children": "Keonjhar",
-    "size": 1346683
-  },
-  {
-    "name": "Odisha",
-    "children": "Koraput",
-    "size": 1300437
-  },
-  {
-    "name": "Odisha",
-    "children": "Mayurbhanj",
-    "size": 1327555
-  },
-  {
-    "name": "Odisha",
-    "children": "Nabarangpur",
-    "size": 1297210
-  },
-  {
-    "name": "Odisha",
-    "children": "Puri",
-    "size": 1404581
-  },
-  {
-    "name": "Odisha",
-    "children": "Sambalpur",
-    "size": 1297098
-  },
-  {
-    "name": "Odisha",
-    "children": "Sundargarh",
-    "size": 1410532
-  },
-  {
-    "name": "Puducherry",
-    "children": "Puducherry",
-    "size": 901357
-  },
-  {
-    "name": "Punjab",
-    "children": "Amritsar",
-    "size": 1477262
-  },
-  {
-    "name": "Punjab",
-    "children": "Anandpur Sahib",
-    "size": 1564721
-  },
-  {
-    "name": "Punjab",
-    "children": "Bathinda",
-    "size": 1525289
-  },
-  {
-    "name": "Punjab",
-    "children": "Faridkot",
-    "size": 1455075
-  },
-  {
-    "name": "Punjab",
-    "children": "Fatehgarh Sahib",
-    "size": 1396957
-  },
-  {
-    "name": "Punjab",
-    "children": "Firozpur",
-    "size": 1522111
-  },
-  {
-    "name": "Punjab",
-    "children": "Gurdaspur",
-    "size": 1500337
-  },
-  {
-    "name": "Punjab",
-    "children": "Hoshiarpur",
-    "size": 1485286
-  },
-  {
-    "name": "Punjab",
-    "children": "Jalandhar",
-    "size": 1551497
-  },
-  {
-    "name": "Punjab",
-    "children": "Khadoor Sahib",
-    "size": 1563409
-  },
-  {
-    "name": "Punjab",
-    "children": "Ludhiana",
-    "size": 1561201
-  },
-  {
-    "name": "Punjab",
-    "children": "Patiala",
-    "size": 1580273
-  },
-  {
-    "name": "Punjab",
-    "children": "Sangrur",
-    "size": 1424743
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Ajmer",
-    "size": 1683261
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Alwar",
-    "size": 1626442
-  },
-  {
-    "name": "Rajasthan",
-    "children": "BHARATPUR",
-    "size": 1690705
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Banswara",
-    "size": 1698244
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Barmer",
-    "size": 1680152
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Bhilwara",
-    "size": 1754901
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Bikaner",
-    "size": 1592355
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Chittorgarh",
-    "size": 1819506
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Churu",
-    "size": 1753825
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Dausa",
-    "size": 1524100
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Ganganagar",
-    "size": 1718414
-  },
-  {
-    "name": "Rajasthan",
-    "children": "JHALAWAR-BARAN",
-    "size": 1669844
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Jaipur",
-    "size": 1957820
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Jaipur Rural",
-    "size": 1700307
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Jalore",
-    "size": 1824968
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Jhunjhunu",
-    "size": 1697470
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Jodhpur",
-    "size": 1727791
-  },
-  {
-    "name": "Rajasthan",
-    "children": "KARAULI-DHOLPUR",
-    "size": 1549468
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Kota",
-    "size": 1744539
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Nagaur",
-    "size": 1678660
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Pali",
-    "size": 1902094
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Rajsamand",
-    "size": 1701194
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Sikar",
-    "size": 1769882
-  },
-  {
-    "name": "Rajasthan",
-    "children": "TONK-SAWAI MADHOPUR",
-    "size": 1710775
-  },
-  {
-    "name": "Rajasthan",
-    "children": "Udaipur",
-    "size": 1817940
-  },
-  {
-    "name": "Sikkim",
-    "children": "Sikkim",
-    "size": 370770
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Arakkonam",
-    "size": 1401813
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Arani",
-    "size": 1369668
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Chennai North",
-    "size": 1422392
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Chennai South",
-    "size": 1795776
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Chennai central",
-    "size": 1328038
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Chidambaram",
-    "size": 1366190
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Coimbatore",
-    "size": 1720221
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Cuddalore",
-    "size": 1247908
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Dharmapuri",
-    "size": 1358273
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Dindigul",
-    "size": 1400531
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Erode",
-    "size": 1321399
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Kallakurichi",
-    "size": 1412499
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Kancheepuram",
-    "size": 1480123
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Kanniyakumari",
-    "size": 1467796
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Karur",
-    "size": 1298322
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Krishnagiri",
-    "size": 1379957
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Madurai",
-    "size": 1441434
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Mayiladuthurai",
-    "size": 1350318
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Nagapattinam",
-    "size": 1210626
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Namakkal",
-    "size": 1329552
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Nilgiris",
-    "size": 1269173
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Perambalur",
-    "size": 1285576
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Pollachi",
-    "size": 1381505
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Ramanathapuram",
-    "size": 1455988
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Salem",
-    "size": 1498350
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Sivaganga",
-    "size": 1412373
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Sriperumbudur",
-    "size": 1946503
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Tenkasi",
-    "size": 1382081
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Thanjavur",
-    "size": 1340050
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Theni",
-    "size": 1441302
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Thiruvallur",
-    "size": 1702833
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Thoothukkudi",
-    "size": 1310406
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Tiruchirappalli",
-    "size": 1387140
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Tirunelveli",
-    "size": 1420435
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Tiruppur",
-    "size": 1375589
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Tiruvannamalai",
-    "size": 1352966
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Vellore",
-    "size": 1312259
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Viluppuram",
-    "size": 1387007
-  },
-  {
-    "name": "Tamil Nadu",
-    "children": "Virudhunagar",
-    "size": 1350495
-  },
-  {
-    "name": "Tripura",
-    "children": "Tripura East",
-    "size": 1140276
-  },
-  {
-    "name": "Tripura",
-    "children": "Tripura West",
-    "size": 1248546
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Agra",
-    "size": 1814739
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Akbarpur",
-    "size": 1768635
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Aligarh",
-    "size": 1793126
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Allahabad",
-    "size": 1666569
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Ambedkar Nagar",
-    "size": 1718774
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Amethi",
-    "size": 1669843
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Amroha",
-    "size": 1544245
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Aonla",
-    "size": 1653577
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Azamgarh",
-    "size": 1703121
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Badaun",
-    "size": 1769145
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Baghpat",
-    "size": 1505175
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bahraich",
-    "size": 1638640
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Ballia",
-    "size": 1768271
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Banda",
-    "size": 1601855
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bansgaon",
-    "size": 1760090
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Barabanki",
-    "size": 1721278
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bareilly",
-    "size": 1664081
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Basti",
-    "size": 1787476
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bhadohi",
-    "size": 1834598
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bijnor",
-    "size": 1562081
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Bulandshahr",
-    "size": 1736436
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Chandauli",
-    "size": 1593133
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Deoria",
-    "size": 1806926
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Dhaurahra",
-    "size": 1558041
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Domariyaganj",
-    "size": 1761415
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Etah",
-    "size": 1577457
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Etawah",
-    "size": 1707237
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Faizabad",
-    "size": 1738701
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Farrukhabad",
-    "size": 1613781
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Fatehpur",
-    "size": 1804753
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Fatehpur Sikri",
-    "size": 1580582
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Firozabad",
-    "size": 1636738
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Gautam Buddha Nagar",
-    "size": 1986109
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Ghaziabad",
-    "size": 2357553
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Ghazipur",
-    "size": 1801519
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Ghosi",
-    "size": 1891112
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Gonda",
-    "size": 1710825
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Gorakhpur",
-    "size": 1903988
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Hamirpur",
-    "size": 1737993
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Hardoi",
-    "size": 1714388
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Hathras",
-    "size": 1758927
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Jalaun",
-    "size": 1887189
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Jaunpur",
-    "size": 1848842
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Jhansi",
-    "size": 1932052
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kairana",
-    "size": 1531767
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kaiserganj",
-    "size": 1711967
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kannauj",
-    "size": 1808886
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kanpur",
-    "size": 1611248
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kaushambi",
-    "size": 1738509
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kheri",
-    "size": 1679466
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Kushi Nagar",
-    "size": 1680992
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Lalganj",
-    "size": 1661470
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Lucknow",
-    "size": 1949956
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Machhlishahr",
-    "size": 1891969
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Maharajganj",
-    "size": 1743131
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Mainpuri",
-    "size": 1653058
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Mathura",
-    "size": 1682260
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Meerut",
-    "size": 1764388
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Mirzapur",
-    "size": 1720661
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Misrikh",
-    "size": 1725589
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Mohanlalganj",
-    "size": 1838194
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Moradabad",
-    "size": 1771985
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Muzaffarnagar",
-    "size": 1588475
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Nagina",
-    "size": 1493419
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Phulpur",
-    "size": 1913275
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Pilibhit",
-    "size": 1671154
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Pratapgarh",
-    "size": 1716394
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Rae Bareli",
-    "size": 1594954
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Rampur",
-    "size": 1616972
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Robertsganj",
-    "size": 1639074
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Saharanpur",
-    "size": 1608833
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Salempur",
-    "size": 1661737
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Sambhal",
-    "size": 1693229
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Sant Kabir Nagar",
-    "size": 1904315
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Shahjahanpur",
-    "size": 1979294
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Shrawasti",
-    "size": 1788080
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Sitapur",
-    "size": 1550263
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Sultanpur",
-    "size": 1703698
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Unnao",
-    "size": 2164392
-  },
-  {
-    "name": "Uttar Pradesh",
-    "children": "Varanasi",
-    "size": 1766487
-  },
-  {
-    "name": "Uttarakhand",
-    "children": "Almora",
-    "size": 1253541
-  },
-  {
-    "name": "Uttarakhand",
-    "children": "Garhwal",
-    "size": 1267218
-  },
-  {
-    "name": "Uttarakhand",
-    "children": "Hardwar",
-    "size": 1642873
-  },
-  {
-    "name": "Uttarakhand",
-    "children": "Nainital-udhamsingh Nagar",
-    "size": 1610811
-  },
-  {
-    "name": "Uttarakhand",
-    "children": "Tehri Garhwal",
-    "size": 1352614
-  },
-  {
-    "name": "West Bengal",
-    "children": "Alipurduars",
-    "size": 1470911
-  },
-  {
-    "name": "West Bengal",
-    "children": "Arambagh",
-    "size": 1600293
-  },
-  {
-    "name": "West Bengal",
-    "children": "Asansol",
-    "size": 1469684
-  },
-  {
-    "name": "West Bengal",
-    "children": "Baharampur",
-    "size": 1453783
-  },
-  {
-    "name": "West Bengal",
-    "children": "Balurghat",
-    "size": 1254497
-  },
-  {
-    "name": "West Bengal",
-    "children": "Bangaon",
-    "size": 1540713
-  },
-  {
-    "name": "West Bengal",
-    "children": "Bankura",
-    "size": 1503812
-  },
-  {
-    "name": "West Bengal",
-    "children": "Barasat",
-    "size": 1512792
-  },
-  {
-    "name": "West Bengal",
-    "children": "Bardhaman Purba",
-    "size": 1532244
-  },
-  {
-    "name": "West Bengal",
-    "children": "Barrackpore",
-    "size": 1287222
-  },
-  {
-    "name": "West Bengal",
-    "children": "Basirhat",
-    "size": 1490596
-  },
-  {
-    "name": "West Bengal",
-    "children": "Birbhum",
-    "size": 1495089
-  },
-  {
-    "name": "West Bengal",
-    "children": "Bishnupur",
-    "size": 1466921
-  },
-  {
-    "name": "West Bengal",
-    "children": "Bolpur",
-    "size": 1538421
-  },
-  {
-    "name": "West Bengal",
-    "children": "Burdwan - durgapur",
-    "size": 1583495
-  },
-  {
-    "name": "West Bengal",
-    "children": "Cooch behar",
-    "size": 1613403
-  },
-  {
-    "name": "West Bengal",
-    "children": "Darjeeling",
-    "size": 1437154
-  },
-  {
-    "name": "West Bengal",
-    "children": "Diamond harbour",
-    "size": 1555914
-  },
-  {
-    "name": "West Bengal",
-    "children": "Dum dum",
-    "size": 1405981
-  },
-  {
-    "name": "West Bengal",
-    "children": "Ghatal",
-    "size": 1610489
-  },
-  {
-    "name": "West Bengal",
-    "children": "Hooghly",
-    "size": 1630042
-  },
-  {
-    "name": "West Bengal",
-    "children": "Howrah",
-    "size": 1505099
-  },
-  {
-    "name": "West Bengal",
-    "children": "Jadavpur",
-    "size": 1595746
-  },
-  {
-    "name": "West Bengal",
-    "children": "Jalpaiguri",
-    "size": 1531469
-  },
-  {
-    "name": "West Bengal",
-    "children": "Jangipur",
-    "size": 1391656
-  },
-  {
-    "name": "West Bengal",
-    "children": "Jhargram",
-    "size": 1475112
-  },
-  {
-    "name": "West Bengal",
-    "children": "Joynagar",
-    "size": 1458724
-  },
-  {
-    "name": "West Bengal",
-    "children": "Kanthi",
-    "size": 1490409
-  },
-  {
-    "name": "West Bengal",
-    "children": "Kolkata Dakshin",
-    "size": 1685296
-  },
-  {
-    "name": "West Bengal",
-    "children": "Kolkata Uttar",
-    "size": 1433985
-  },
-  {
-    "name": "West Bengal",
-    "children": "Krishnanagar",
-    "size": 1476783
-  },
-  {
-    "name": "West Bengal",
-    "children": "Maldaha Dakshin",
-    "size": 1347143
-  },
-  {
-    "name": "West Bengal",
-    "children": "Maldaha Uttar",
-    "size": 1425428
-  },
-  {
-    "name": "West Bengal",
-    "children": "Mathurapur",
-    "size": 1488785
-  },
-  {
-    "name": "West Bengal",
-    "children": "Medinipur",
-    "size": 1499673
-  },
-  {
-    "name": "West Bengal",
-    "children": "Murshidabad",
-    "size": 1512098
-  },
-  {
-    "name": "West Bengal",
-    "children": "Purulia",
-    "size": 1471933
-  },
-  {
-    "name": "West Bengal",
-    "children": "Raiganj",
-    "size": 1387526
-  },
-  {
-    "name": "West Bengal",
-    "children": "Ranaghat",
-    "size": 1602849
-  },
-  {
-    "name": "West Bengal",
-    "children": "Srerampur",
-    "size": 1624038
-  },
-  {
-    "name": "West Bengal",
-    "children": "Tamluk",
-    "size": 1527273
-  },
-  {
-    "name": "West Bengal",
-    "children": "Uluberia",
-    "size": 1448632
-  }
-]
+{"name": "Andaman & Nicobar Islands", "children": [{"name": "Andaman & Nicobar Islands", "size": 269360}]},
+{"name": "Andhra Pradesh", "children": [{"name": "Adilabad", "size": 1386282},
+{"name": "Amalapuram", "size": 1357865},
+{"name": "Anakapalli", "size": 1401474},
+{"name": "Anantapur", "size": 1536894},
+{"name": "Aruku", "size": 1272340},
+{"name": "Bapatla", "size": 1392964},
+{"name": "Bhongir", "size": 1492240},
+{"name": "CHELVELLA", "size": 2185164},
+{"name": "Chittoor", "size": 1451851},
+{"name": "Eluru", "size": 1427764},
+{"name": "Guntur", "size": 1572017},
+{"name": "Hindupur", "size": 1446496},
+{"name": "Hyderabad", "size": 1823217},
+{"name": "Kadapa", "size": 1550440},
+{"name": "Kakinada", "size": 1418290},
+{"name": "Karimnagar", "size": 1550810},
+{"name": "Khammam", "size": 1440267},
+{"name": "Kurnool", "size": 1481791},
+{"name": "Machilipatnam", "size": 1369311},
+{"name": "Mahabubabad", "size": 1387288},
+{"name": "Mahbubnagar ", "size": 1418668},
+{"name": "Malkajgiri", "size": 3183083},
+{"name": "Medak", "size": 1536166},
+{"name": "Nagarkurnool ", "size": 1477305},
+{"name": "Nalgonda", "size": 1494343},
+{"name": "Nandyal", "size": 1576945},
+{"name": "Narasaraopet", "size": 1514861},
+{"name": "Narsapuram", "size": 1325028},
+{"name": "Nellore", "size": 1606127},
+{"name": "Nizamabad", "size": 1496193},
+{"name": "Ongole", "size": 1470212},
+{"name": "Peddapalle", "size": 1425355},
+{"name": "Rajahmundry", "size": 1421276},
+{"name": "Rajampet", "size": 1487791},
+{"name": "Secundrabad", "size": 1893741},
+{"name": "Srikakulam", "size": 1413726},
+{"name": "Tirupati", "size": 1574161},
+{"name": "Vijayawada", "size": 1564513},
+{"name": "Visakhapatnam", "size": 1723011},
+{"name": "Vizianagaram ", "size": 1403736},
+{"name": "Warangal", "size": 1537778},
+{"name": "Zahirabad", "size": 1445354}]},
+{"name": "Arunachal Pradesh", "children": [{"name": "ARUNACHAL EAST", "size": 312704},
+{"name": "ARUNACHAL WEST", "size": 446640}]},
+{"name": "Assam", "children": [{"name": "Autonomous District", "size": 702230},
+{"name": "Barpeta", "size": 1430188},
+{"name": "Dhubri", "size": 1550166},
+{"name": "Dibrugarh", "size": 1124305},
+{"name": "Gauhati", "size": 1922270},
+{"name": "Jorhat", "size": 1189486},
+{"name": "Kaliabor", "size": 1457219},
+{"name": "Karimganj", "size": 1165997},
+{"name": "Kokrajhar", "size": 1505472},
+{"name": "Lakhimpur", "size": 1431080},
+{"name": "Mangaldoi", "size": 1515676},
+{"name": "Nowgong", "size": 1523881},
+{"name": "Silchar", "size": 1060175},
+{"name": "Tezpur", "size": 1259568}]},
+{"name": "Bihar", "children": [{"name": "Araria", "size": 1587332},
+{"name": "Arrah", "size": 1824515},
+{"name": "Aurangabad", "size": 1536153},
+{"name": "Banka", "size": 1549456},
+{"name": "Begusarai", "size": 1778759},
+{"name": "Bhagalpur", "size": 1685339},
+{"name": "Buxar", "size": 1640671},
+{"name": "Darbhanga", "size": 1495445},
+{"name": "Gaya (SC)", "size": 1501521},
+{"name": "Gopalganj (SC)", "size": 1654838},
+{"name": "Hajipur (SC)", "size": 1649547},
+{"name": "Jahanabad", "size": 1423246},
+{"name": "Jamui (SC)", "size": 1550936},
+{"name": "Jhanjharpur", "size": 1668405},
+{"name": "Karakat", "size": 1580558},
+{"name": "Katihar", "size": 1446478},
+{"name": "Khagaria", "size": 1506587},
+{"name": "Kishanganj", "size": 1438990},
+{"name": "Madhepura", "size": 1725693},
+{"name": "Madhubani", "size": 1627832},
+{"name": "Maharajganj", "size": 1642068},
+{"name": "Munger", "size": 1719984},
+{"name": "Muzaffarpur", "size": 1551363},
+{"name": "Nalanda", "size": 1951967},
+{"name": "Nawada", "size": 1694895},
+{"name": "Paschim Champaran", "size": 1413148},
+{"name": "Pataliputra", "size": 1736074},
+{"name": "Patna Sahib", "size": 1946249},
+{"name": "Purnia", "size": 1582626},
+{"name": "Purvi Champaran", "size": 1439253},
+{"name": "Samastipur (SC)", "size": 1504451},
+{"name": "Saran", "size": 1538740},
+{"name": "Sasaram (SC) ", "size": 1607747},
+{"name": "Sheohar", "size": 1485801},
+{"name": "Sitamarhi", "size": 1574914},
+{"name": "Siwan", "size": 1563860},
+{"name": "Supaul", "size": 1525583},
+{"name": "Ujiarpur", "size": 1426217},
+{"name": "Vaishali", "size": 1566321},
+{"name": "Valmiki Nagar ", "size": 1456598}]},
+{"name": "Chandigarh", "children": [{"name": "CHANDIGARH", "size": 615214}]},
+{"name": "Chhattisgarh", "children": [{"name": "BASTAR", "size": 1298083},
+{"name": "BILASPUR", "size": 1729229},
+{"name": "DURG", "size": 1858922},
+{"name": "JANJGIR-CHAMPA", "size": 1744201},
+{"name": "KANKER", "size": 1448375},
+{"name": "KORBA", "size": 1423729},
+{"name": "MAHASAMUND", "size": 1516177},
+{"name": "RAIGARH", "size": 1626949},
+{"name": "RAIPUR", "size": 1904460},
+{"name": "RAJNANDGAON", "size": 1591373},
+{"name": "SARGUJA", "size": 1523022}]},
+{"name": "Dadra & Nagar Haveli", "children": [{"name": "Dadar & Nagar Haveli", "size": 196597}]},
+{"name": "Daman & Diu", "children": [{"name": "Daman & diu", "size": 111827}]},
+{"name": "Goa", "children": [{"name": "North Goa", "size": 515441},
+{"name": "South Goa", "size": 545336}]},
+{"name": "Gujarat", "children": [{"name": "Ahmedabad East", "size": 1601832},
+{"name": "Ahmedabad West", "size": 1534400},
+{"name": "Amreli", "size": 1486286},
+{"name": "Anand", "size": 1496859},
+{"name": "Banaskantha", "size": 1515711},
+{"name": "Bardoli", "size": 1614106},
+{"name": "Bharuch", "size": 1417548},
+{"name": "Bhavnagar", "size": 1594531},
+{"name": "Chhota Udaipur", "size": 1536305},
+{"name": "Dahod", "size": 1411765},
+{"name": "Gandhinagar", "size": 1733972},
+{"name": "Jamnagar", "size": 1470952},
+{"name": "Junagadh", "size": 1485543},
+{"name": "Kachchh", "size": 1533782},
+{"name": "Kheda", "size": 1599476},
+{"name": "Mahesana", "size": 1498219},
+{"name": "Navsari", "size": 1764622},
+{"name": "Panchmahal", "size": 1576667},
+{"name": "Patan", "size": 1628641},
+{"name": "Porbandar", "size": 1539223},
+{"name": "Rajkot", "size": 1655717},
+{"name": "Sabarkantha", "size": 1615840},
+{"name": "Surat", "size": 1484068},
+{"name": "Surendranagar", "size": 1656657},
+{"name": "Vadodara", "size": 1638321},
+{"name": "Valsad", "size": 1512061}]},
+{"name": "Haryana", "children": [{"name": "Ambala", "size": 1692424},
+{"name": "Bhiwani-Mahendragarh", "size": 1473912},
+{"name": "Faridabad", "size": 1740352},
+{"name": "Gurgaon", "size": 1844906},
+{"name": "Hisar", "size": 1517606},
+{"name": "Karnal", "size": 1684321},
+{"name": "Kurukshetra", "size": 1498459},
+{"name": "Rohtak", "size": 1567508},
+{"name": "Sirsa", "size": 1660557},
+{"name": "Sonipat", "size": 1417188}]},
+{"name": "Himachal Pradesh", "children": [{"name": "Hamirpur", "size": 1247699},
+{"name": "Kangra", "size": 1258601},
+{"name": "Mandi", "size": 1150408},
+{"name": "Shimla", "size": 1153363}]},
+{"name": "Jammu & Kashmir", "children": [{"name": "Anantnag", "size": 1301143},
+{"name": "Baramulla", "size": 1190766},
+{"name": "Jammu", "size": 1848155},
+{"name": "Ladakh", "size": 166763},
+{"name": "Srinagar", "size": 1207230},
+{"name": "Udhampur", "size": 1469072}]},
+{"name": "Jharkhand", "children": [{"name": "Chatra", "size": 1312562},
+{"name": "Dhanbad", "size": 1890021},
+{"name": "Dumka", "size": 1273049},
+{"name": "Giridih", "size": 1511644},
+{"name": "Godda", "size": 1590772},
+{"name": "Hazaribagh", "size": 1518923},
+{"name": "Jamshedpur", "size": 1581665},
+{"name": "Khunti", "size": 1111856},
+{"name": "Kodarma", "size": 1639645},
+{"name": "Lohardaga", "size": 1119144},
+{"name": "Palamau", "size": 1645957},
+{"name": "Rajmahal", "size": 1353467},
+{"name": "Ranchi", "size": 1648459},
+{"name": "Singhbhum", "size": 1152632}]},
+{"name": "Karnataka", "children": [{"name": "Bagalkot", "size": 1568633},
+{"name": "Bangalore North", "size": 2401472},
+{"name": "Bangalore Rural", "size": 2190398},
+{"name": "Bangalore South", "size": 1998724},
+{"name": "Bangalore central", "size": 1931456},
+{"name": "Belgaum", "size": 1580895},
+{"name": "Bellary", "size": 1487945},
+{"name": "Bidar", "size": 1600962},
+{"name": "Bijapur", "size": 1622635},
+{"name": "Chamarajanagar", "size": 1555781},
+{"name": "Chikkballapur ", "size": 1658410},
+{"name": "Chikkodi", "size": 1442206},
+{"name": "Chitradurga", "size": 1661277},
+{"name": "Dakshina Kannada", "size": 1565219},
+{"name": "Davanagere", "size": 1522712},
+{"name": "Dharwad", "size": 1578125},
+{"name": "Gulbarga", "size": 1721990},
+{"name": "Hassan", "size": 1561486},
+{"name": "Haveri", "size": 1558749},
+{"name": "Kolar", "size": 1492977},
+{"name": "Koppal", "size": 1535105},
+{"name": "Mandya", "size": 1669262},
+{"name": "Mysore", "size": 1723134},
+{"name": "Raichur", "size": 1661606},
+{"name": "Shimoga", "size": 1562243},
+{"name": "Tumkur", "size": 1518518},
+{"name": "Udupi Chikmagalur", "size": 1387294},
+{"name": "Uttara Kannada", "size": 1450599}]},
+{"name": "Kerala", "children": [{"name": "Alappuzha", "size": 1271324},
+{"name": "Alathur", "size": 1216351},
+{"name": "Attingal", "size": 1251398},
+{"name": "Chalakudy", "size": 1150497},
+{"name": "Ernakulam", "size": 1156492},
+{"name": "Idukki", "size": 1158735},
+{"name": "Kannur", "size": 1170266},
+{"name": "Kasaragod", "size": 1243730},
+{"name": "Kollam", "size": 1219415},
+{"name": "Kottayam", "size": 1161465},
+{"name": "Kozhikode", "size": 1182484},
+{"name": "Malappuram", "size": 1198444},
+{"name": "Mavelikkara", "size": 1252668},
+{"name": "Palakkad", "size": 1208726},
+{"name": "Pathanamthitta", "size": 1323906},
+{"name": "Ponnani", "size": 1180789},
+{"name": "Thiruvananthapuram", "size": 1272748},
+{"name": "Thrissur", "size": 1275288},
+{"name": "Vadakara", "size": 1182504},
+{"name": "Wayanad", "size": 1249420}]},
+{"name": "Lakshadweep", "children": [{"name": "Lakshadweep ", "size": 49922}]},
+{"name": "Madhya Pradesh", "children": [{"name": "BALAGHAT", "size": 1629741},
+{"name": "BETUL", "size": 1607831},
+{"name": "BHIND", "size": 1600137},
+{"name": "BHOPAL", "size": 1957241},
+{"name": "CHHINDWARA", "size": 1402038},
+{"name": "DAMOH", "size": 1651614},
+{"name": "DEWAS", "size": 1617111},
+{"name": "DHAR", "size": 1668441},
+{"name": "GUNA", "size": 1605613},
+{"name": "GWALIOR", "size": 1876965},
+{"name": "HOSHANGABAD", "size": 1568206},
+{"name": "INDORE", "size": 2115303},
+{"name": "JABALPUR", "size": 1711621},
+{"name": "KHAJURAHO", "size": 1702833},
+{"name": "KHANDWA", "size": 1759417},
+{"name": "KHARGONE", "size": 1703272},
+{"name": "MANDLA", "size": 1824702},
+{"name": "MANDSOUR", "size": 1626556},
+{"name": "MORENA", "size": 1702457},
+{"name": "RAJGARH", "size": 1578757},
+{"name": "RATLAM", "size": 1702576},
+{"name": "REWA", "size": 1544719},
+{"name": "SAGAR", "size": 1520322},
+{"name": "SATNA", "size": 1458381},
+{"name": "SHAHDOL", "size": 1561016},
+{"name": "SIDHI", "size": 1736048},
+{"name": "TIKAMGARH", "size": 1528863},
+{"name": "UJJAIN", "size": 1525481},
+{"name": "VIDISHA", "size": 1634039}]},
+{"name": "Maharashtra", "children": [{"name": "Ahmadnagar", "size": 1705005},
+{"name": "Akola", "size": 1672643},
+{"name": "Amravati", "size": 1612739},
+{"name": "Aurangabad", "size": 1589395},
+{"name": "Baramati", "size": 1813553},
+{"name": "Beed", "size": 1792652},
+{"name": "Bhandara - gondiya", "size": 1655852},
+{"name": "Bhiwandi", "size": 1696584},
+{"name": "Buldhana", "size": 1595435},
+{"name": "Chandrapur", "size": 1753690},
+{"name": "Dhule", "size": 1675367},
+{"name": "Dindori", "size": 1530208},
+{"name": "Gadchiroli-Chimur", "size": 1468437},
+{"name": "Hatkanangle", "size": 1630604},
+{"name": "Hingoli", "size": 1586194},
+{"name": "Jalgaon", "size": 1707969},
+{"name": "Jalna", "size": 1612056},
+{"name": "Kalyan", "size": 1922034},
+{"name": "Kolhapur", "size": 1758293},
+{"name": "Latur", "size": 1686957},
+{"name": "Madha", "size": 1727322},
+{"name": "Maval", "size": 1953741},
+{"name": "Mumbai North", "size": 1783870},
+{"name": "Mumbai North East", "size": 1668357},
+{"name": "Mumbai North West", "size": 1775416},
+{"name": "Mumbai North central", "size": 1737084},
+{"name": "Mumbai South", "size": 1485844},
+{"name": "Mumbai South central", "size": 1447886},
+{"name": "Nagpur", "size": 1900784},
+{"name": "Nanded", "size": 1687057},
+{"name": "Nandurbar", "size": 1672943},
+{"name": "Nashik", "size": 1593774},
+{"name": "Osmanabad", "size": 1759186},
+{"name": "Palghar", "size": 1578149},
+{"name": "Parbhani", "size": 1803792},
+{"name": "Pune", "size": 1835835},
+{"name": "Raigad", "size": 1532781},
+{"name": "Ramtek", "size": 1677266},
+{"name": "Ratnagiri - sindhudurg", "size": 1367362},
+{"name": "Raver", "size": 1593389},
+{"name": "Sangli", "size": 1649107},
+{"name": "Satara", "size": 1719998},
+{"name": "Shirdi", "size": 1462267},
+{"name": "Shirur", "size": 1824112},
+{"name": "Solapur", "size": 1702739},
+{"name": "Thane", "size": 2073251},
+{"name": "Wardha", "size": 1564552},
+{"name": "Yavatmal-Washim", "size": 1755292}]},
+{"name": "Manipur", "children": [{"name": "Inner manipur ", "size": 855360},
+{"name": "Outer manipur", "size": 919009}]},
+{"name": "Meghalaya", "children": [{"name": "Shillong", "size": 980740},
+{"name": "Tura", "size": 586501}]},
+{"name": "Mizoram", "children": [{"name": "MIZORAM", "size": 702170}]},
+{"name": "NCT OF Delhi", "children": [{"name": "CHANDNI CHOWK", "size": 1447230},
+{"name": "EAST DELHI", "size": 1829578},
+{"name": "NEW DELHI", "size": 1490147},
+{"name": "NORTH EAST DELHI", "size": 1957708},
+{"name": "NORTH WEST DELHI", "size": 2194343},
+{"name": "SOUTH DELHI", "size": 1752748},
+{"name": "WEST DELHI", "size": 2039410}]},
+{"name": "Nagaland", "children": [{"name": "Nagaland", "size": 1182972}]},
+{"name": "Odisha", "children": [{"name": "Aska", "size": 1408780},
+{"name": "Balasore", "size": 1366218},
+{"name": "Bargarh", "size": 1430717},
+{"name": "Berhampur", "size": 1334268},
+{"name": "Bhadrak", "size": 1469498},
+{"name": "Bhubaneswar ", "size": 1527768},
+{"name": "Bolangir", "size": 1563025},
+{"name": "Cuttack", "size": 1371617},
+{"name": "Dhenkanal", "size": 1363471},
+{"name": "Jagatsinghpur", "size": 1499673},
+{"name": "Jajpur", "size": 1303733},
+{"name": "Kalahandi", "size": 1474135},
+{"name": "Kandhamal", "size": 1143602},
+{"name": "Kendrapara", "size": 1555444},
+{"name": "Keonjhar", "size": 1346683},
+{"name": "Koraput", "size": 1300437},
+{"name": "Mayurbhanj", "size": 1327555},
+{"name": "Nabarangpur", "size": 1297210},
+{"name": "Puri", "size": 1404581},
+{"name": "Sambalpur", "size": 1297098},
+{"name": "Sundargarh", "size": 1410532}]},
+{"name": "Puducherry", "children": [{"name": "Puducherry", "size": 901357}]},
+{"name": "Punjab", "children": [{"name": "Amritsar", "size": 1477262},
+{"name": "Anandpur Sahib", "size": 1564721},
+{"name": "Bathinda", "size": 1525289},
+{"name": "Faridkot", "size": 1455075},
+{"name": "Fatehgarh Sahib", "size": 1396957},
+{"name": "Firozpur", "size": 1522111},
+{"name": "Gurdaspur", "size": 1500337},
+{"name": "Hoshiarpur", "size": 1485286},
+{"name": "Jalandhar", "size": 1551497},
+{"name": "Khadoor Sahib", "size": 1563409},
+{"name": "Ludhiana", "size": 1561201},
+{"name": "Patiala", "size": 1580273},
+{"name": "Sangrur", "size": 1424743}]},
+{"name": "Rajasthan", "children": [{"name": "Ajmer", "size": 1683261},
+{"name": "Alwar", "size": 1626442},
+{"name": "BHARATPUR", "size": 1690705},
+{"name": "Banswara", "size": 1698244},
+{"name": "Barmer", "size": 1680152},
+{"name": "Bhilwara", "size": 1754901},
+{"name": "Bikaner", "size": 1592355},
+{"name": "Chittorgarh", "size": 1819506},
+{"name": "Churu", "size": 1753825},
+{"name": "Dausa", "size": 1524100},
+{"name": "Ganganagar", "size": 1718414},
+{"name": "JHALAWAR-BARAN", "size": 1669844},
+{"name": "Jaipur", "size": 1957820},
+{"name": "Jaipur Rural", "size": 1700307},
+{"name": "Jalore", "size": 1824968},
+{"name": "Jhunjhunu", "size": 1697470},
+{"name": "Jodhpur", "size": 1727791},
+{"name": "KARAULI-DHOLPUR", "size": 1549468},
+{"name": "Kota", "size": 1744539},
+{"name": "Nagaur", "size": 1678660},
+{"name": "Pali", "size": 1902094},
+{"name": "Rajsamand", "size": 1701194},
+{"name": "Sikar", "size": 1769882},
+{"name": "TONK-SAWAI MADHOPUR", "size": 1710775},
+{"name": "Udaipur", "size": 1817940}]},
+{"name": "Sikkim", "children": [{"name": "Sikkim", "size": 370770}]},
+{"name": "Tamil Nadu", "children": [{"name": "Arakkonam", "size": 1401813},
+{"name": "Arani", "size": 1369668},
+{"name": "Chennai North", "size": 1422392},
+{"name": "Chennai South", "size": 1795776},
+{"name": "Chennai central", "size": 1328038},
+{"name": "Chidambaram ", "size": 1366190},
+{"name": "Coimbatore", "size": 1720221},
+{"name": "Cuddalore", "size": 1247908},
+{"name": "Dharmapuri", "size": 1358273},
+{"name": "Dindigul", "size": 1400531},
+{"name": "Erode", "size": 1321399},
+{"name": "Kallakurichi", "size": 1412499},
+{"name": "Kancheepuram", "size": 1480123},
+{"name": "Kanniyakumari", "size": 1467796},
+{"name": "Karur", "size": 1298322},
+{"name": "Krishnagiri", "size": 1379957},
+{"name": "Madurai", "size": 1441434},
+{"name": "Mayiladuthurai", "size": 1350318},
+{"name": "Nagapattinam ", "size": 1210626},
+{"name": "Namakkal", "size": 1329552},
+{"name": "Nilgiris", "size": 1269173},
+{"name": "Perambalur", "size": 1285576},
+{"name": "Pollachi", "size": 1381505},
+{"name": "Ramanathapuram", "size": 1455988},
+{"name": "Salem", "size": 1498350},
+{"name": "Sivaganga", "size": 1412373},
+{"name": "Sriperumbudur", "size": 1946503},
+{"name": "Tenkasi", "size": 1382081},
+{"name": "Thanjavur", "size": 1340050},
+{"name": "Theni", "size": 1441302},
+{"name": "Thiruvallur", "size": 1702833},
+{"name": "Thoothukkudi ", "size": 1310406},
+{"name": "Tiruchirappalli", "size": 1387140},
+{"name": "Tirunelveli", "size": 1420435},
+{"name": "Tiruppur", "size": 1375589},
+{"name": "Tiruvannamalai", "size": 1352966},
+{"name": "Vellore", "size": 1312259},
+{"name": "Viluppuram", "size": 1387007},
+{"name": "Virudhunagar ", "size": 1350495}]},
+{"name": "Tripura", "children": [{"name": "Tripura East", "size": 1140276},
+{"name": "Tripura West", "size": 1248546}]},
+{"name": "Uttar Pradesh", "children": [{"name": "Agra", "size": 1814739},
+{"name": "Akbarpur", "size": 1768635},
+{"name": "Aligarh", "size": 1793126},
+{"name": "Allahabad", "size": 1666569},
+{"name": "Ambedkar Nagar", "size": 1718774},
+{"name": "Amethi", "size": 1669843},
+{"name": "Amroha", "size": 1544245},
+{"name": "Aonla", "size": 1653577},
+{"name": "Azamgarh", "size": 1703121},
+{"name": "Badaun", "size": 1769145},
+{"name": "Baghpat", "size": 1505175},
+{"name": "Bahraich", "size": 1638640},
+{"name": "Ballia", "size": 1768271},
+{"name": "Banda", "size": 1601855},
+{"name": "Bansgaon", "size": 1760090},
+{"name": "Barabanki", "size": 1721278},
+{"name": "Bareilly", "size": 1664081},
+{"name": "Basti", "size": 1787476},
+{"name": "Bhadohi", "size": 1834598},
+{"name": "Bijnor", "size": 1562081},
+{"name": "Bulandshahr", "size": 1736436},
+{"name": "Chandauli", "size": 1593133},
+{"name": "Deoria", "size": 1806926},
+{"name": "Dhaurahra", "size": 1558041},
+{"name": "Domariyaganj ", "size": 1761415},
+{"name": "Etah", "size": 1577457},
+{"name": "Etawah", "size": 1707237},
+{"name": "Faizabad", "size": 1738701},
+{"name": "Farrukhabad", "size": 1613781},
+{"name": "Fatehpur", "size": 1804753},
+{"name": "Fatehpur Sikri", "size": 1580582},
+{"name": "Firozabad", "size": 1636738},
+{"name": "Gautam Buddha Nagar", "size": 1986109},
+{"name": "Ghaziabad", "size": 2357553},
+{"name": "Ghazipur", "size": 1801519},
+{"name": "Ghosi", "size": 1891112},
+{"name": "Gonda", "size": 1710825},
+{"name": "Gorakhpur", "size": 1903988},
+{"name": "Hamirpur", "size": 1737993},
+{"name": "Hardoi", "size": 1714388},
+{"name": "Hathras", "size": 1758927},
+{"name": "Jalaun", "size": 1887189},
+{"name": "Jaunpur", "size": 1848842},
+{"name": "Jhansi", "size": 1932052},
+{"name": "Kairana", "size": 1531767},
+{"name": "Kaiserganj", "size": 1711967},
+{"name": "Kannauj", "size": 1808886},
+{"name": "Kanpur", "size": 1611248},
+{"name": "Kaushambi", "size": 1738509},
+{"name": "Kheri", "size": 1679466},
+{"name": "Kushi Nagar", "size": 1680992},
+{"name": "Lalganj", "size": 1661470},
+{"name": "Lucknow", "size": 1949956},
+{"name": "Machhlishahr ", "size": 1891969},
+{"name": "Maharajganj", "size": 1743131},
+{"name": "Mainpuri", "size": 1653058},
+{"name": "Mathura", "size": 1682260},
+{"name": "Meerut", "size": 1764388},
+{"name": "Mirzapur", "size": 1720661},
+{"name": "Misrikh", "size": 1725589},
+{"name": "Mohanlalganj", "size": 1838194},
+{"name": "Moradabad", "size": 1771985},
+{"name": "Muzaffarnagar", "size": 1588475},
+{"name": "Nagina", "size": 1493419},
+{"name": "Phulpur", "size": 1913275},
+{"name": "Pilibhit", "size": 1671154},
+{"name": "Pratapgarh", "size": 1716394},
+{"name": "Rae Bareli", "size": 1594954},
+{"name": "Rampur", "size": 1616972},
+{"name": "Robertsganj", "size": 1639074},
+{"name": "Saharanpur", "size": 1608833},
+{"name": "Salempur", "size": 1661737},
+{"name": "Sambhal", "size": 1693229},
+{"name": "Sant Kabir Nagar", "size": 1904315},
+{"name": "Shahjahanpur ", "size": 1979294},
+{"name": "Shrawasti", "size": 1788080},
+{"name": "Sitapur", "size": 1550263},
+{"name": "Sultanpur", "size": 1703698},
+{"name": "Unnao", "size": 2164392},
+{"name": "Varanasi", "size": 1766487}]},
+{"name": "Uttarakhand", "children": [{"name": "Almora", "size": 1253541},
+{"name": "Garhwal", "size": 1267218},
+{"name": "Hardwar", "size": 1642873},
+{"name": "Nainital-udhamsingh Nagar", "size": 1610811},
+{"name": "Tehri Garhwal ", "size": 1352614}]},
+{"name": "West Bengal", "children": [{"name": "Alipurduars", "size": 1470911},
+{"name": "Arambagh", "size": 1600293},
+{"name": "Asansol", "size": 1469684},
+{"name": "Baharampur", "size": 1453783},
+{"name": "Balurghat", "size": 1254497},
+{"name": "Bangaon", "size": 1540713},
+{"name": "Bankura", "size": 1503812},
+{"name": "Barasat", "size": 1512792},
+{"name": "Bardhaman Purba", "size": 1532244},
+{"name": "Barrackpore", "size": 1287222},
+{"name": "Basirhat", "size": 1490596},
+{"name": "Birbhum", "size": 1495089},
+{"name": "Bishnupur", "size": 1466921},
+{"name": "Bolpur", "size": 1538421},
+{"name": "Burdwan - durgapur", "size": 1583495},
+{"name": "Cooch behar", "size": 1613403},
+{"name": "Darjeeling", "size": 1437154},
+{"name": "Diamond harbour", "size": 1555914},
+{"name": "Dum dum", "size": 1405981},
+{"name": "Ghatal", "size": 1610489},
+{"name": "Hooghly", "size": 1630042},
+{"name": "Howrah", "size": 1505099},
+{"name": "Jadavpur", "size": 1595746},
+{"name": "Jalpaiguri", "size": 1531469},
+{"name": "Jangipur", "size": 1391656},
+{"name": "Jhargram", "size": 1475112},
+{"name": "Joynagar", "size": 1458724},
+{"name": "Kanthi", "size": 1490409},
+{"name": "Kolkata Dakshin", "size": 1685296},
+{"name": "Kolkata Uttar", "size": 1433985},
+{"name": "Krishnanagar ", "size": 1476783},
+{"name": "Maldaha Dakshin", "size": 1347143},
+{"name": "Maldaha Uttar ", "size": 1425428},
+{"name": "Mathurapur", "size": 1488785},
+{"name": "Medinipur", "size": 1499673},
+{"name": "Murshidabad", "size": 1512098},
+{"name": "Purulia", "size": 1471933},
+{"name": "Raiganj", "size": 1387526},
+{"name": "Ranaghat", "size": 1602849},
+{"name": "Srerampur", "size": 1624038},
+{"name": "Tamluk", "size": 1527273},
+{"name": "Uluberia", "size": 1448632}]}
