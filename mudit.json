@@ -1,0 +1,13 @@
+{
+	"name": "Andaman & Nicobar Islands", 
+	"children": [
+		{"name": "Andaman & Nicobar Islands", "size": 2693}
+	]
+},
+{
+	"name": "Andhra Pradesh", 
+	"children": [
+		{"name": "Adilabad", "size": 1386},
+        {"name": "Amalapuram", "size": 1357}
+    ]
+}
