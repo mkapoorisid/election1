@@ -34,7 +34,7 @@ const m0 = {
         .selectAll("path")
         .data(root.descendants().slice(1))
         .join("path")
-        .attr("fill", d => { while (d.depth > 1) d = d.parent; return color(d.data.name); })
+        .attr("fill", d => { while (d.depth > 1) d = d.parent; return d.data.color; })
         .attr("fill-opacity", d => arcVisible(d.current) ? (d.children ? 0.6 : 0.4) : 0)
         .attr("d", d => arc(d.current));
         
