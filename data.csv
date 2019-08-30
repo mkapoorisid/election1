@@ -1,55 +1,61 @@
-screen_name,date,tweet
-BJP4India,Apr 02 2019,89
-BJP4India,Apr 03 2019,116
-BJP4India,Apr 04 2019,52
-BJP4India,Apr 05 2019,134
-BJP4India,Apr 06 2019,108
-BJP4India,Apr 07 2019,141
-BJP4India,Apr 08 2019,146
-BJP4India,Apr 09 2019,212
-BJP4India,Apr 10 2019,94
-BJP4India,Apr 11 2019,91
-BJP4India,Apr 12 2019,84
-BJP4India,Apr 13 2019,102
-BJP4India,Apr 14 2019,84
-BJP4India,Apr 15 2019,94
-BJP4India,Apr 16 2019,145
-BJP4India,Apr 17 2019,116
-BJP4India,Apr 18 2019,166
-BJP4India,Apr 19 2019,130
-BJP4India,Apr 20 2019,92
-BJP4India,Apr 21 2019,73
-BJP4India,Apr 22 2019,195
-BJP4India,Apr 23 2019,116
-BJP4India,Apr 24 2019,159
-BJP4India,Apr 25 2019,141
-BJP4India,Apr 26 2019,175
-BJP4India,Apr 27 2019,78
-BJP4India,Apr 28 2019,44
-INCIndia,Apr 02 2019,36
-INCIndia,Apr 03 2019,24
-INCIndia,Apr 04 2019,22
-INCIndia,Apr 05 2019,34
-INCIndia,Apr 06 2019,31
-INCIndia,Apr 07 2019,15
-INCIndia,Apr 08 2019,28
-INCIndia,Apr 09 2019,26
-INCIndia,Apr 10 2019,41
-INCIndia,Apr 11 2019,18
-INCIndia,Apr 12 2019,22
-INCIndia,Apr 13 2019,27
-INCIndia,Apr 14 2019,12
-INCIndia,Apr 15 2019,26
-INCIndia,Apr 16 2019,26
-INCIndia,Apr 17 2019,28
-INCIndia,Apr 18 2019,23
-INCIndia,Apr 19 2019,25
-INCIndia,Apr 20 2019,24
-INCIndia,Apr 21 2019,20
-INCIndia,Apr 22 2019,25
-INCIndia,Apr 23 2019,20
-INCIndia,Apr 24 2019,13
-INCIndia,Apr 25 2019,28
-INCIndia,Apr 26 2019,20
-INCIndia,Apr 27 2019,24
-INCIndia,Apr 28 2019,3
+﻿year,state,Stunted,Wasted,Underweight
+CNNS,Jammu and Kashmir,15,15,13
+CNNS,Himachal Pradesh,28,11,23
+CNNS,Punjab,24,7,20
+CNNS,Uttarakhand,30,6,19
+CNNS,Haryana,35,12,29
+CNNS,NCT of Delhi,29,15,28
+CNNS,Rajasthan,37,14,31
+CNNS,Uttar Pradesh,39,18,37
+CNNS,Bihar,42,15,39
+CNNS,Sikkim,22,7,11
+CNNS,Arunachal Pradesh,28,7,15
+CNNS,Nagaland,26,13,16
+CNNS,Manipur,29,6,13
+CNNS,Mizoram,27,6,11
+CNNS,Tripura,32,13,24
+CNNS,Meghalaya,40,15,30
+CNNS,Assam,32,19,29
+CNNS,West Bengal,25,20,31
+CNNS,Jharkhand,36,29,43
+CNNS,Odisha,29,14,29
+CNNS,Chhattisgarh,35,19,40
+CNNS,Madhya Pradesh,39,20,39
+CNNS,Gujarat,39,17,34
+CNNS,Maharashtra,34,17,31
+CNNS,Andhra Pradesh,31,17,33
+CNNS,Karnataka,33,19,32
+CNNS,Goa,20,16,20
+CNNS,Kerala,21,13,19
+CNNS,Tamil Nadu,20,21,24
+CNNS,Telangana,29,18,31
+NFHS 4,Jammu and Kashmir,28,12,17
+NFHS 4,Himachal Pradesh,26,14,22
+NFHS 4,Punjab,26,16,22
+NFHS 4,Uttarakhand,34,19,27
+NFHS 4,Haryana,34,21,30
+NFHS 4,NCT of Delhi,32,15,27
+NFHS 4,Rajasthan,39,23,37
+NFHS 4,Uttar Pradesh,46,18,39
+NFHS 4,Bihar,48,21,44
+NFHS 4,Sikkim,29,14,14
+NFHS 4,Arunachal Pradesh,29,17,19
+NFHS 4,Nagaland,29,11,17
+NFHS 4,Manipur,29,7,14
+NFHS 4,Mizoram,28,6,12
+NFHS 4,Tripura,24,17,24
+NFHS 4,Meghalaya,44,15,29
+NFHS 4,Assam,36,17,30
+NFHS 4,West Bengal,33,20,32
+NFHS 4,Jharkhand,46,29,48
+NFHS 4,Odisha,34,20,34
+NFHS 4,Chhattisgarh,38,23,38
+NFHS 4,Madhya Pradesh,42,26,43
+NFHS 4,Gujarat,38,27,39
+NFHS 4,Maharashtra,34,26,36
+NFHS 4,Andhra Pradesh,31,17,32
+NFHS 4,Karnataka,36,26,35
+NFHS 4,Goa,20,22,24
+NFHS 4,Kerala,20,16,16
+NFHS 4,Tamil Nadu,27,20,24
+NFHS 4,Telangana,28,18,28
